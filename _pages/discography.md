@@ -33,6 +33,7 @@ nav_order: 2
 
 **Pitohui** - [pitohui.bandcamp.com](http://pitohui.bandcamp.com/)
 
+- [Live Ep](https://open.spotify.com/album/3k4gvN4E0NsqK3Fn8eS3BK?si=VsHtZJPUTjmX_Ja9fR2e9w) (Shalgam Records – 2023)
 - [Boros EP](https://open.spotify.com/album/3tlk6UvGpWPpBF6wpqS9Yv) (Self release - 2013)
 - [Devin EP](https://open.spotify.com/album/6UbFzc6hb7MjZQsFiP8FrI) (Self release - 2014)
 - [Devin RMX](https://open.spotify.com/album/6fIsMfIApm1BXxG0PKPSH9) (Self release - 2014)
@@ -44,6 +45,7 @@ nav_order: 2
 
 **Yerçekimi** - [http://yercekimi.otomat.tv](http://yercekimi.otomat.tv/)
 
+- [4](https://open.spotify.com/album/7Cbi4qKbsxEDhEkJzzwS4a?si=-JArIskkQFmAF7coW6JlUw) (Self release – 2024)
 - [Dünyanın Son Günü](https://open.spotify.com/album/0ClesJJKPjbWYr3PUlGpQa) (Otomat - 2015)
 - [Olmuyor](https://open.spotify.com/album/5Vxp66P5gJh6lwO30jbx8M) (Otomat - 2015)
 - [Daha Uzak](https://open.spotify.com/album/50Kw6Lpx1hhYh7dlkdLXbD) (Otomat - 2017)

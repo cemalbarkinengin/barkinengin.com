@@ -8,6 +8,18 @@ nav_order: 3
 
 Works indicated with \* are collaborations with Metin Bozkurt and/or Burak Tamer.
 
+[Umut Töre Bandosu – Bir İleri Bir Geri](https://open.spotify.com/album/1HvmTf8KdX2lW5XfFr1iLm?si=5pCNJ3OSSQaGAvpZmSbr7g)
+
+Single - Ellipsis – 2024
+
+Mixing & Mastering
+
+[Padme – Hala!!](https://open.spotify.com/album/4v3RuUrzjtvoQqOb7RG8wM?si=Qw2lLSovTpuq0YW3U8XR9Q)
+
+Album - Tamar Records – 2023
+
+Mixing & Mastering
+
 [Akın Orbay - Scary Maximalism](https://open.spotify.com/album/68PtqN9ep0vDKW4nLcOflJ?si=miFfYKUdTCCg7mXQNZo8MQ)
 
 Album - Miskin Records - 2023
