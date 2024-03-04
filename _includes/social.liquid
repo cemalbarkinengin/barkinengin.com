@@ -116,3 +116,6 @@
   </div>
   {% include scripts/wechatModal.liquid %}
 {% endif %}
+{% if site.soundcloud_id %}
+  <a href="https://soundcloud.com/{{ site.soundcloud_id }}" title="SoundCloud"><i class="fa-brands fa-soundcloud"></i></a>
+{% endif %}
