@@ -12,36 +12,36 @@ related_posts: false
     </div>
 </div>
 
-Afrobars (Pitohui Rework)
+### Afrobars (Pitohui Rework)
 
 “Afrobars” from wipeç’s debut LP E.V. is built on a short but catchy synth loop. Pitohui reimagined the original track by adding more layers, more tension, and some new dynamics.
 
-Credits:
+##### Credits:
 
-Samples from: wipeç
+**Samples from:** wipeç
 
-Guitar: Barkın Engin
+**Guitar:** Barkın Engin
 
-Synthesizer: Burak Tamer
+**Synthesizer:** Burak Tamer
 
-Bass: Cem Kayıran
+**Bass:** Cem Kayıran
 
-Drums, drum machine, fx: Berkay Küçükbaşlar
+**Drums, drum machine, fx:** Berkay Küçükbaşlar
 
-Mix & mastering: Barkın Engin, Burak Tamer
+**Mix & mastering:** Barkın Engin, Burak Tamer
 
-Cover art: Deniz Bankal, Aylin Güngör
+**Cover art:** Deniz Bankal, Aylin Güngör
 
-Buhid Gallspat (wipeç Gallo EP Rework)
+### Buhid Gallspat (wipeç Gallo EP Rework)
 
 wipeç's twist on the full Gallo EP by Pitohui. The rework contains sounds from the entire EP, with no additional material. Sounds from the EP are used as samples, textures and made into instruments to create the track.
 
-Credits:
+##### Credits:
 
-Samples from: Pitohui
+**Samples from:** Pitohui
 
-Composed, arranged, produced, and mixed by: Ahmetcan Gökçeer
+**Composed, arranged, produced, and mixed by:** Ahmetcan Gökçeer
 
-Mastering by: Barkın Engin
+**Mastering by:** Barkın Engin
 
-Cover art: Deniz Bankal, Aylin Güngör
+**Cover art:** Deniz Bankal, Aylin Güngör
