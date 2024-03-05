@@ -8,9 +8,13 @@ related_posts: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pitohui-wipec-reworks_cover.jpg" title="Pitohui & wipeç - Reworks" class="img-fluid rounded z-depth-1" %}
+        <a href="https://open.spotify.com/album/22zoJJm8CoIubV4kQG784N?si=HKgmj8l1Qu6WQQz6xxE3PQ">
+            {% include figure.liquid loading="eager" path="assets/img/pitohui-wipec-reworks_cover.jpg" title="Pitohui & wipeç - Reworks" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
 </div>
+
+Listen on [Spotify](https://open.spotify.com/album/22zoJJm8CoIubV4kQG784N?si=HKgmj8l1Qu6WQQz6xxE3PQ).
 
 ### Afrobars (Pitohui Rework)
 
