@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Concert: Pitohui @[Müze Gazhane](https://www.instagram.com/muzegazhane/)
+Concert: Pitohui @ [Müze Gazhane](https://www.instagram.com/muzegazhane/)

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Concert: Pitohui @[Arka Oda](https://www.instagram.com/arkaoda/)
+Concert: Pitohui @ [arkaoda](https://www.instagram.com/arkaoda/)

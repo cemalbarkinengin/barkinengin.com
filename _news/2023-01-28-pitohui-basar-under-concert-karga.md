@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Concert: Pitohui & Basar Ünder @[Karga](https://www.instagram.com/kargakadikoy/)
+Concert: Pitohui & Basar Ünder @ [Karga](https://www.instagram.com/kargakadikoy/)

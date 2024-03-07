@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Concert: Pitohui @[Karga](https://www.instagram.com/kargakadikoy/)
+Concert: Pitohui @ [Karga](https://www.instagram.com/kargakadikoy/)

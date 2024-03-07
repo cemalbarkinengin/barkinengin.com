@@ -14,7 +14,7 @@ related_posts: false
     </div>
 </div>
 
-Listen on [Spotify](https://open.spotify.com/album/22zoJJm8CoIubV4kQG784N?si=HKgmj8l1Qu6WQQz6xxE3PQ).
+Listen @ [Spotify](https://open.spotify.com/album/22zoJJm8CoIubV4kQG784N?si=HKgmj8l1Qu6WQQz6xxE3PQ).
 
 ### Afrobars (Pitohui Rework)
 

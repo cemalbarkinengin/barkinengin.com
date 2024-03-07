@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Concert: Öykü Aras @[Blind](https://www.biletix.com/etkinlik/1SC44/ISTANBUL/en)
+Concert: Öykü Aras @ [Blind](https://www.biletix.com/etkinlik/1SC44/ISTANBUL/en)
