@@ -16,4 +16,6 @@ related_posts: false
 
 Listen @ [Spotify](https://open.spotify.com/album/0INPDoHgoRMj0EqQr2BYAL?si=Db6E_OU3QpqTYlLHpPhD3w).
 
-Illustration by Duygu Tamer Cover Design: İpek Torun
+Illustration by Duygu Tamer
+
+Cover Design: İpek Torun

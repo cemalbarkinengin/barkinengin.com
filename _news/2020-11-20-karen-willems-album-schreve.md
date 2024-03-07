@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Pleased to be a part of dearest Karen Willems' latest tape release Schreve. [Pre-orders start today.](https://www.tapingpolicies.com/tapes/karen-willems-schreve-04)
+Pleased to be a part of dearest Karen Willems' latest tape release Schreve. [Pre-orders start today](https://www.tapingpolicies.com/tapes/karen-willems-schreve-04).

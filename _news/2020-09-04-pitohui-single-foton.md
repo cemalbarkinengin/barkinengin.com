@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New Pitohui single [Foton](https://pitohui.bandcamp.com/track/foton) is out know via Shalgam Records!
+New Pitohui single "[Foton](https://pitohui.bandcamp.com/track/foton)" is out know via Shalgam Records!
