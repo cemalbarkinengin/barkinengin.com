@@ -45,11 +45,11 @@ nav_order: 2
 
 **Yerçekimi** - [http://yercekimi.otomat.tv](http://yercekimi.otomat.tv/)
 
-- [4](https://open.spotify.com/album/7Cbi4qKbsxEDhEkJzzwS4a?si=-JArIskkQFmAF7coW6JlUw) (Self release – 2024)
 - [Dünyanın Son Günü](https://open.spotify.com/album/0ClesJJKPjbWYr3PUlGpQa) (Otomat - 2015)
 - [Olmuyor](https://open.spotify.com/album/5Vxp66P5gJh6lwO30jbx8M) (Otomat - 2015)
 - [Daha Uzak](https://open.spotify.com/album/50Kw6Lpx1hhYh7dlkdLXbD) (Otomat - 2017)
 - [Tutulma](https://open.spotify.com/album/18hFRgIsaZQqX2513eLawq?si=vW196EdjRXCo3btuLnVoYw) (Self release - 2021)
+- [4](https://open.spotify.com/album/7Cbi4qKbsxEDhEkJzzwS4a?si=-JArIskkQFmAF7coW6JlUw) (Self release – 2024)
 
 **Barkın Engin & Tuna Pase** - [barkinengintunapase.bandcamp.com](https://barkinengintunapase.bandcamp.com/)
 
