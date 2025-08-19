@@ -9,6 +9,64 @@ nav_order: 3
 Works indicated with \* are collaborations with Metin Bozkurt and/or Burak Tamer.
 
 
+[A Tender Dream ](https://www.imdb.com/title/tt10142094/) \*
+
+Short Film - 2025
+
+OST Mixing & Mastering
+
+Director: Nazlı Eda Noyan
+
+---
+
+[Cymin Samawatie – Temas ](https://open.spotify.com/intl-tr/album/0m2acBYzOwXJz99SPPKu2i?si=FQ15t1K0TF6ELBXw_FNDSA)
+
+Album - İki Müzik -2025
+
+Mixing & Mastering
+
+---
+
+[Kuş Kolektifi – Miras](https://open.spotify.com/intl-tr/album/6wWb4OOUQtfx2cC7YYcZdf?si=r6yj6i6ETSqn2XPFCk97pg)
+
+EP - 2025
+
+Mastering
+
+---
+
+[Bahr – Ursine](https://open.spotify.com/intl-tr/album/0Ol4rqUcxsofU4Q7QArD6k?si=Vyn4r0tQR3-YLPQwwE0PyA)
+
+Album - 2025
+
+Mastering
+
+---
+
+[Padme – Jest OST](https://open.spotify.com/intl-tr/album/2lsuUl9fGjD8ZQFJB3DFEI?si=00zI-K4yTfyTXNicHPtHNw)
+
+EP – Tamar Records - 2024
+
+Mixing & Mastering
+
+---
+
+[gUgUoU – A Great Place to Be Locked Up](https://open.spotify.com/album/197wqNuhJ7kY7IV7KQsqk8?si=NHSG0AedSM-z8TvWzWlyqA)
+
+EP – Purplish Records - 2024
+
+Mixing
+
+---
+
+[Daima – Fer](https://open.spotify.com/intl-tr/album/2ri6etCYmrlkc7Ub80yM8V?si=yZOqM11mQeiBOjVYpJd2bQ)
+
+Single – 2024
+
+Mastering
+
+---
+
 [Umut Töre Bandosu – Bir İleri Bir Geri](https://open.spotify.com/album/1HvmTf8KdX2lW5XfFr1iLm?si=5pCNJ3OSSQaGAvpZmSbr7g)
 
 Single - Ellipsis – 2024
