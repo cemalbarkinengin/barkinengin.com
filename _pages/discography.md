@@ -6,7 +6,8 @@ nav: true
 nav_order: 2
 ---
 
-**Solo Works** - [www.soundcloud.com/barkin-engin](http://www.soundcloud.com/barkin-engin)
+**Solo**
+- [Aural Recollections] (Self release – 2025)
 
 **Replikas** - [www.replikas.com](http://www.replikas.com/)
 
@@ -30,6 +31,7 @@ nav_order: 2
 - [Stellar Stream](https://open.spotify.com/album/3qGX8WkCnZVKtzaedFJT7Y) (Self release - 2017)
 - [Everlasting Ripple](https://open.spotify.com/track/6g9STSquYu04KJTljJu4e9) (Self release - 2019)
 - [Elusive Self](https://open.spotify.com/album/0INPDoHgoRMj0EqQr2BYAL?si=OOyE1gOvRnSrtqYIpukIwA) (Self release - 2020)
+- [Live at Yeldeğirmeni Sanat ](https://open.spotify.com/intl-tr/album/4XDyAQV2UIpDVUQbh4Kefa?si=4NRyyIp_Sw66KqpC0YqOpA) (Self release - 2024)
 
 **Pitohui** - [pitohui.bandcamp.com](http://pitohui.bandcamp.com/)
 
@@ -42,6 +44,7 @@ nav_order: 2
 - [Gallo Ep](https://open.spotify.com/album/0Z2P4pXNtdjv5SgrEKeK6Q) (Shalgam Records - 2019)
 - [Foton](https://open.spotify.com/album/5qViFNjbtEnFHjgsg3VgsM?si=TvsXosizRQy1Mc2Ex_zyfA) (Shalgam Records - 2020)
 - [Reworks](https://open.spotify.com/album/22zoJJm8CoIubV4kQG784N?si=EkIKpBvsQH6jA6LT2ewGUg) (with wipeç / Shalgam Records - 2022)
+- [Live EP](https://open.spotify.com/intl-tr/album/3k4gvN4E0NsqK3Fn8eS3BK?si=x4xrwPw-TbS1a2JhQWSocg) (Shalgam Records - 2023)
 
 **Yerçekimi** - [http://yercekimi.otomat.tv](http://yercekimi.otomat.tv/)
 
@@ -68,4 +71,5 @@ nav_order: 2
 - [Nihan Devecioglu - 25](https://open.spotify.com/track/4qketgF6RDmNCSUBdoM9i9) (Whatabout Music - 2019)
 - [Karen Willems - Panneblues](https://karenwillems.bandcamp.com/album/schreve-04) (Taping Policies - 2020)
 - [Şevket Akıncı - Denya Sub Ether Radio](https://open.spotify.com/track/5x9sdszROvHXyPkifTyl6s?si=f48cf989ca194589) (Tarla Records - 2021)
-- [gUgUoU  - Worlbmon](https://open.spotify.com/album/43Eh0ceY7fIAgA7zYZkklo?si=oip-K8TtQoCSeG0JUpSkzg) (Shalgam Records - 2023)
+- [gUgUoU - Worlbmon](https://open.spotify.com/album/43Eh0ceY7fIAgA7zYZkklo?si=oip-K8TtQoCSeG0JUpSkzg) (Shalgam Records - 2023)
+- [gUgUoU - Kendinin DAnsı](https://open.spotify.com/album/197wqNuhJ7kY7IV7KQsqk8?si=qpto-rAGQ_eeL9bttUUiMw) (Purplish Records – 2024)
