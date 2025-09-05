@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 **Solo**
-- [Aural Recollections] (Self release – 2025)
+- [Aural Recollections] (https://open.spotify.com/intl-tr/album/6MkKkXo8Jzi4bUeHD9OjmV?si=QMHmAYCIRQ6nfex5HJooQw) (Self release – 2025)
 
 **Replikas** - [www.replikas.com](http://www.replikas.com/)
 
