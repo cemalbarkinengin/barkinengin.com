@@ -18,7 +18,7 @@ nav_order: 2
 - [Zerre](https://open.spotify.com/album/120LMbCxyTL7dlxfwNbcos) (Peyote Müzik - 2008)
 - [Biz Burada Yok İken](https://open.spotify.com/album/29icokQaQtiqB7eeQDzkxa) (Ada Müzik - 2012)
 - [EP No.1](https://open.spotify.com/album/52Uba5xKThKjv9vE7oxDKG) (Ada Müzik -  2013)
-- [Alfred Hitchcock's Blackmail - Live at Istanbul Modern](https://replikas.bandcamp.com/album/alfred-hitchcocks-blackmail-live-at-istanbul-modern) (Self release - 2014)
+- [Alfred Hitchcock's Blackmail - Live at Istanbul Modern](https://replikas.bandcamp.com/album/alfred-hitchcocks-blackmail-live-at-istanbul-modern) (Independent - 2014)
 
 **Reverie Falls On All** - [www.reveriefallsonall.com](http://www.reveriefallsonall.com/)
 
