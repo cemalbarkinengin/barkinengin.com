@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 **Solo**
-- [Aural Recollections](https://open.spotify.com/intl-tr/album/6MkKkXo8Jzi4bUeHD9OjmV?si=QMHmAYCIRQ6nfex5HJooQw) (Self release – 2025)
+- [Aural Recollections](https://open.spotify.com/intl-tr/album/6MkKkXo8Jzi4bUeHD9OjmV?si=QMHmAYCIRQ6nfex5HJooQw) (Independent – 2025)
 
 **Replikas** - [www.replikas.com](http://www.replikas.com/)
 
@@ -22,25 +22,25 @@ nav_order: 2
 
 **Reverie Falls On All** - [www.reveriefallsonall.com](http://www.reveriefallsonall.com/)
 
-- [Clouds In Our Room](https://open.spotify.com/album/36phzLLNkWEPSZlvyb3Xdn) (Self release - 2006)
-- [İMÇ EP](https://reveriefallsonall.bandcamp.com/album/m-ep) (Self release - 2007)
-- [Music for Church Organ & Electronics](https://reveriefallsonall.bandcamp.com/album/music-for-church-organ-electronics) (with Ahmet Altınel, self release - 2008)
-- [Passed Ones](https://reveriefallsonall.bandcamp.com/album/passed-ones) (Self release - 2009)
-- [Eta Carinae](https://open.spotify.com/album/4CE0dIFCIEgiZjFY09g0iO) (Self release - 2014, also included to "An Anthology of Turkish Experimental Music" by Sub Rosa - 2017)
+- [Clouds In Our Room](https://open.spotify.com/album/36phzLLNkWEPSZlvyb3Xdn) (Independent - 2006)
+- [İMÇ EP](https://reveriefallsonall.bandcamp.com/album/m-ep) (Independent - 2007)
+- [Music for Church Organ & Electronics](https://reveriefallsonall.bandcamp.com/album/music-for-church-organ-electronics) (with Ahmet Altınel, Independent - 2008)
+- [Passed Ones](https://reveriefallsonall.bandcamp.com/album/passed-ones) (Independent - 2009)
+- [Eta Carinae](https://open.spotify.com/album/4CE0dIFCIEgiZjFY09g0iO) (Independent - 2014, also included to "An Anthology of Turkish Experimental Music" by Sub Rosa - 2017)
 - [Rebloom](https://open.spotify.com/album/401R4QPXzvu0gjh1I3LZ1g) (Shalgam Records - 2015)
-- [Stellar Stream](https://open.spotify.com/album/3qGX8WkCnZVKtzaedFJT7Y) (Self release - 2017)
-- [Everlasting Ripple](https://open.spotify.com/track/6g9STSquYu04KJTljJu4e9) (Self release - 2019)
-- [Elusive Self](https://open.spotify.com/album/0INPDoHgoRMj0EqQr2BYAL?si=OOyE1gOvRnSrtqYIpukIwA) (Self release - 2020)
-- [Live at Yeldeğirmeni Sanat ](https://open.spotify.com/intl-tr/album/4XDyAQV2UIpDVUQbh4Kefa?si=4NRyyIp_Sw66KqpC0YqOpA) (Self release - 2024)
+- [Stellar Stream](https://open.spotify.com/album/3qGX8WkCnZVKtzaedFJT7Y) (Independent - 2017)
+- [Everlasting Ripple](https://open.spotify.com/track/6g9STSquYu04KJTljJu4e9) (Independent - 2019)
+- [Elusive Self](https://open.spotify.com/album/0INPDoHgoRMj0EqQr2BYAL?si=OOyE1gOvRnSrtqYIpukIwA) (Independent - 2020)
+- [Live at Yeldeğirmeni Sanat ](https://open.spotify.com/intl-tr/album/4XDyAQV2UIpDVUQbh4Kefa?si=4NRyyIp_Sw66KqpC0YqOpA) (Independent - 2024)
 
 **Pitohui** - [pitohui.bandcamp.com](http://pitohui.bandcamp.com/)
 
 - [Live Ep](https://open.spotify.com/album/3k4gvN4E0NsqK3Fn8eS3BK?si=VsHtZJPUTjmX_Ja9fR2e9w) (Shalgam Records – 2023)
-- [Boros EP](https://open.spotify.com/album/3tlk6UvGpWPpBF6wpqS9Yv) (Self release - 2013)
-- [Devin EP](https://open.spotify.com/album/6UbFzc6hb7MjZQsFiP8FrI) (Self release - 2014)
-- [Devin RMX](https://open.spotify.com/album/6fIsMfIApm1BXxG0PKPSH9) (Self release - 2014)
-- [Nar Nar](https://open.spotify.com/album/2adyAH7fHPIzrL3RtYTCUT) (Self release - 2015)
-- [Enspektör EP](https://open.spotify.com/album/7GRj6x8EAfZedaZOkbbnqB) (Self release - 2016)
+- [Boros EP](https://open.spotify.com/album/3tlk6UvGpWPpBF6wpqS9Yv) (Independent - 2013)
+- [Devin EP](https://open.spotify.com/album/6UbFzc6hb7MjZQsFiP8FrI) (Independent - 2014)
+- [Devin RMX](https://open.spotify.com/album/6fIsMfIApm1BXxG0PKPSH9) (Independent - 2014)
+- [Nar Nar](https://open.spotify.com/album/2adyAH7fHPIzrL3RtYTCUT) (Independent - 2015)
+- [Enspektör EP](https://open.spotify.com/album/7GRj6x8EAfZedaZOkbbnqB) (Independent - 2016)
 - [Gallo Ep](https://open.spotify.com/album/0Z2P4pXNtdjv5SgrEKeK6Q) (Shalgam Records - 2019)
 - [Foton](https://open.spotify.com/album/5qViFNjbtEnFHjgsg3VgsM?si=TvsXosizRQy1Mc2Ex_zyfA) (Shalgam Records - 2020)
 - [Reworks](https://open.spotify.com/album/22zoJJm8CoIubV4kQG784N?si=EkIKpBvsQH6jA6LT2ewGUg) (with wipeç / Shalgam Records - 2022)
@@ -51,13 +51,13 @@ nav_order: 2
 - [Dünyanın Son Günü](https://open.spotify.com/album/0ClesJJKPjbWYr3PUlGpQa) (Otomat - 2015)
 - [Olmuyor](https://open.spotify.com/album/5Vxp66P5gJh6lwO30jbx8M) (Otomat - 2015)
 - [Daha Uzak](https://open.spotify.com/album/50Kw6Lpx1hhYh7dlkdLXbD) (Otomat - 2017)
-- [Tutulma](https://open.spotify.com/album/18hFRgIsaZQqX2513eLawq?si=vW196EdjRXCo3btuLnVoYw) (Self release - 2021)
-- [4](https://open.spotify.com/album/7Cbi4qKbsxEDhEkJzzwS4a?si=-JArIskkQFmAF7coW6JlUw) (Self release – 2024)
+- [Tutulma](https://open.spotify.com/album/18hFRgIsaZQqX2513eLawq?si=vW196EdjRXCo3btuLnVoYw) (Independent - 2021)
+- [4](https://open.spotify.com/album/7Cbi4qKbsxEDhEkJzzwS4a?si=-JArIskkQFmAF7coW6JlUw) (Independent – 2024)
 
 **Barkın Engin & Tuna Pase** - [barkinengintunapase.bandcamp.com](https://barkinengintunapase.bandcamp.com/)
 
-- [Hazy Stars](https://open.spotify.com/album/4qVff2151lRXWF1OHOdNc9) (Self release - 2014)
-- [Rest](https://open.spotify.com/album/0563v1JQWP6OAKwjaRIgWH) (Self release - 2018)
+- [Hazy Stars](https://open.spotify.com/album/4qVff2151lRXWF1OHOdNc9) (Independent - 2014)
+- [Rest](https://open.spotify.com/album/0563v1JQWP6OAKwjaRIgWH) (Independent - 2018)
 
 **Karen Willems & Barkın Engin**
 
