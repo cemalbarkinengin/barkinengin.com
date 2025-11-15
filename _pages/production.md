@@ -10,7 +10,7 @@ Works indicated with \* are collaborations with Metin Bozkurt and/or Burak Tamer
 
 ---
 
-[Şevket Akıncı – Camera Obscura ](https://open.spotify.com/intl-tr/album/6duhVkQGC9ymBbNSLK7wx2?si=LnkxWZxwSqmOfLmXJJQwGQ)
+[Şevket Akıncı – Camera Obscura](https://open.spotify.com/intl-tr/album/6duhVkQGC9ymBbNSLK7wx2?si=LnkxWZxwSqmOfLmXJJQwGQ)
 
 Album - Tarla Records -2025
 
@@ -18,7 +18,7 @@ Mastering
 
 ---
 
-[A Tender Dream ](https://www.imdb.com/title/tt10142094/) \*
+[A Tender Dream](https://www.imdb.com/title/tt10142094/) \*
 
 Short Film - 2025
 
