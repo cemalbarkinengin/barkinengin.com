@@ -7,6 +7,7 @@ nav_order: 3
 ---
 
 Works indicated with \* are collaborations with Metin Bozkurt and/or Burak Tamer.
+
 ---
 
 [Deli Bakkal – Artistik Oyun Havaları](https://open.spotify.com/intl-tr/album/4dLmV2fMqN4vxASFqqP3il?si=wdHaj5yvRgmmn7Tm69cI8g)
