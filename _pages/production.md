@@ -7,6 +7,29 @@ nav_order: 3
 ---
 
 Works indicated with \* are collaborations with Metin Bozkurt and/or Burak Tamer.
+---
+
+[Deli Bakkal – Artistik Oyun Havaları](https://open.spotify.com/intl-tr/album/4dLmV2fMqN4vxASFqqP3il?si=wdHaj5yvRgmmn7Tm69cI8g)
+
+Album - 2026
+
+Mastering
+
+---
+
+[Arda Kül – Buzlar Eriyene Kadar](https://open.spotify.com/intl-tr/track/06GfdAcg8LeE2lWvHTr8D1?si=039e0f92f1ee481c)
+
+Single - 2025
+
+Mastering
+
+---
+
+[Arda Kül – Manolya](https://open.spotify.com/intl-tr/album/7IIXpwPq8pzhYkPd7696NT?si=eOEKHXoqSoGy_cVPj7SIrw)
+
+Single - 2025
+
+Mastering
 
 ---
 
