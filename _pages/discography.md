@@ -7,6 +7,7 @@ nav_order: 2
 ---
 
 **Solo**
+
 - [Aural Recollections](https://open.spotify.com/intl-tr/album/6MkKkXo8Jzi4bUeHD9OjmV?si=QMHmAYCIRQ6nfex5HJooQw) (Independent – 2025)
 
 **Replikas** - [www.replikas.com](http://www.replikas.com/)
@@ -26,27 +27,26 @@ nav_order: 2
 - [İMÇ EP](https://reveriefallsonall.bandcamp.com/album/m-ep) (Independent - 2007)
 - [Music for Church Organ & Electronics](https://reveriefallsonall.bandcamp.com/album/music-for-church-organ-electronics) (with Ahmet Altınel, Independent - 2008)
 - [Passed Ones](https://reveriefallsonall.bandcamp.com/album/passed-ones) (Independent - 2009)
-- [Eta Carinae](https://open.spotify.com/album/4CE0dIFCIEgiZjFY09g0iO) (Independent - 2014, also included to "An Anthology of Turkish Experimental Music" by Sub Rosa - 2017)
+- [Eta Carinae](https://open.spotify.com/album/4CE0dIFCIEgiZjFY09g0iO) (Independent - 2014, also included in "An Anthology of Turkish Experimental Music" by Sub Rosa - 2017)
 - [Rebloom](https://open.spotify.com/album/401R4QPXzvu0gjh1I3LZ1g) (Shalgam Records - 2015)
 - [Stellar Stream](https://open.spotify.com/album/3qGX8WkCnZVKtzaedFJT7Y) (Independent - 2017)
 - [Everlasting Ripple](https://open.spotify.com/track/6g9STSquYu04KJTljJu4e9) (Independent - 2019)
 - [Elusive Self](https://open.spotify.com/album/0INPDoHgoRMj0EqQr2BYAL?si=OOyE1gOvRnSrtqYIpukIwA) (Independent - 2020)
-- [Live at Yeldeğirmeni Sanat ](https://open.spotify.com/intl-tr/album/4XDyAQV2UIpDVUQbh4Kefa?si=4NRyyIp_Sw66KqpC0YqOpA) (Independent - 2024)
+- [Live at Yeldeğirmeni Sanat](https://open.spotify.com/intl-tr/album/4XDyAQV2UIpDVUQbh4Kefa?si=4NRyyIp_Sw66KqpC0YqOpA) (Independent - 2024)
 
 **Pitohui** - [pitohui.bandcamp.com](http://pitohui.bandcamp.com/)
 
-- [Live Ep](https://open.spotify.com/album/3k4gvN4E0NsqK3Fn8eS3BK?si=VsHtZJPUTjmX_Ja9fR2e9w) (Shalgam Records – 2023)
 - [Boros EP](https://open.spotify.com/album/3tlk6UvGpWPpBF6wpqS9Yv) (Independent - 2013)
 - [Devin EP](https://open.spotify.com/album/6UbFzc6hb7MjZQsFiP8FrI) (Independent - 2014)
 - [Devin RMX](https://open.spotify.com/album/6fIsMfIApm1BXxG0PKPSH9) (Independent - 2014)
 - [Nar Nar](https://open.spotify.com/album/2adyAH7fHPIzrL3RtYTCUT) (Independent - 2015)
 - [Enspektör EP](https://open.spotify.com/album/7GRj6x8EAfZedaZOkbbnqB) (Independent - 2016)
-- [Gallo Ep](https://open.spotify.com/album/0Z2P4pXNtdjv5SgrEKeK6Q) (Shalgam Records - 2019)
+- [Gallo EP](https://open.spotify.com/album/0Z2P4pXNtdjv5SgrEKeK6Q) (Shalgam Records - 2019)
 - [Foton](https://open.spotify.com/album/5qViFNjbtEnFHjgsg3VgsM?si=TvsXosizRQy1Mc2Ex_zyfA) (Shalgam Records - 2020)
 - [Reworks](https://open.spotify.com/album/22zoJJm8CoIubV4kQG784N?si=EkIKpBvsQH6jA6LT2ewGUg) (with wipeç / Shalgam Records - 2022)
 - [Live EP](https://open.spotify.com/intl-tr/album/3k4gvN4E0NsqK3Fn8eS3BK?si=x4xrwPw-TbS1a2JhQWSocg) (Shalgam Records - 2023)
 
-**Yerçekimi** - [http://yercekimi.otomat.tv](http://yercekimi.otomat.tv/)
+**Yerçekimi** - [yercekimi.bandcamp.com](https://yercekimi.bandcamp.com/)
 
 - [Dünyanın Son Günü](https://open.spotify.com/album/0ClesJJKPjbWYr3PUlGpQa) (Otomat - 2015)
 - [Olmuyor](https://open.spotify.com/album/5Vxp66P5gJh6lwO30jbx8M) (Otomat - 2015)
@@ -61,7 +61,7 @@ nav_order: 2
 
 **Karen Willems & Barkın Engin**
 
-- [Seslerde](https://werfrecords.bandcamp.com/album/seslerde-02) (W.E.R.F Records - 2020)
+- [Seslerde](https://werfrecords.bandcamp.com/album/seslerde-02) (W.E.R.F. Records - 2020)
 
 **Guest Appearances**
 

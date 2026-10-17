@@ -1,10 +1,12 @@
 ---
 layout: page
 permalink: /production/
-title: Selected Works
+title: Selected Production Works
 nav: true
 nav_order: 3
 ---
+
+Listen to a selection of these works on the [Selected Production Works playlist on Spotify](https://open.spotify.com/playlist/2ZaJg1ZqlmkPkXBpu1ZRMw).
 
 Works indicated with \* are collaborations with Metin Bozkurt and/or Burak Tamer.
 
@@ -46,15 +48,15 @@ Mastering
 
 [Şevket Akıncı – Camera Obscura](https://open.spotify.com/intl-tr/album/6duhVkQGC9ymBbNSLK7wx2?si=LnkxWZxwSqmOfLmXJJQwGQ)
 
-Album - Tarla Records -2025
+Album - Tarla Records - 2025
 
 Mastering
 
 ---
 
-[Cymin Samawatie – Temas ](https://open.spotify.com/intl-tr/album/0m2acBYzOwXJz99SPPKu2i?si=FQ15t1K0TF6ELBXw_FNDSA)
+[Cymin Samawatie – Temas](https://open.spotify.com/intl-tr/album/0m2acBYzOwXJz99SPPKu2i?si=FQ15t1K0TF6ELBXw_FNDSA)
 
-Album - İki Müzik -2025
+Album - İki Müzik - 2025
 
 Mixing & Mastering
 
@@ -158,7 +160,7 @@ Mixing & Mastering
 
 [Umut Töre Bandosu - Seyret](https://open.spotify.com/album/0EzOCDSmBynnVQIAkryQDn?si=KeUgZJTkTZCukhHH0hg6fQ)
 
-Single - Gri Plak- 2022
+Single - Gri Plak - 2022
 
 Mixing
 
@@ -172,7 +174,7 @@ Mixing & Mastering
 
 ---
 
-[Wipeç - E.V.](https://open.spotify.com/album/32fmQ1HqZ9iZcX6znsK4sH?si=pFNK3a14Tnid0nL41XJWUA)
+[wipeç - E.V.](https://open.spotify.com/album/32fmQ1HqZ9iZcX6znsK4sH?si=pFNK3a14Tnid0nL41XJWUA)
 
 Album - Airport Patrons - 2022
 
@@ -180,7 +182,7 @@ Mastering
 
 ---
 
-[Bahr- Cursed Home](https://open.spotify.com/album/1XsZmM7yioMieflspiREIB?si=qHnXj9GFRGWRNUTUonp1gg)
+[Bahr - Cursed Home](https://open.spotify.com/album/1XsZmM7yioMieflspiREIB?si=qHnXj9GFRGWRNUTUonp1gg)
 
 Single - 2022
 
@@ -216,7 +218,7 @@ Mixing & Mastering
 
 [Umut Töre Bandosu - Şeytan](https://open.spotify.com/album/20r8Jtzb3Ru82V9EggDnBU?si=m4woOsCuRIWXt9R--OHArQ)
 
-Single - Gri Plak- 2021
+Single - Gri Plak - 2021
 
 Mixing
 
@@ -288,13 +290,13 @@ Mixing
 
 [Umut Töre Bandosu  - Koza](https://open.spotify.com/album/0XIAIqnFEjOhnOqKXkOOy7)
 
-Single - Gri Plak- 2019
+Single - Gri Plak - 2019
 
 Mixing
 
 ---
 
-[Guguou - Pas Matri](https://open.spotify.com/album/3CoeQoe1YF8WbmuepgFf3l)
+[gUgUoU - Pas Matri](https://open.spotify.com/album/3CoeQoe1YF8WbmuepgFf3l)
 
 Album - Shalgam Records - 2019
 
@@ -312,7 +314,7 @@ Mixing
 
 [Umut Töre  Bandosu  - Ayı](https://open.spotify.com/album/6hXJuhzg9GBH7AHUpfPjQr?si=jyi2XP7-R8mjmN3jxhYtiA)
 
-Single - Gri Plak- 2019
+Single - Gri Plak - 2019
 
 Mixing
 
@@ -366,7 +368,7 @@ Mixing
 
 ---
 
-[Şevket Akıncı- Escher Chronicles](https://open.spotify.com/album/775C4bi1lq0YSYfzImBzb9)
+[Şevket Akıncı - Escher Chronicles](https://open.spotify.com/album/775C4bi1lq0YSYfzImBzb9)
 
 Album - A.K. Müzik - 2017
 
@@ -408,7 +410,7 @@ Mixing
 
 [Nihan & The Single Camels - Live in Sendesaal Bremen](https://open.spotify.com/album/3qCRKUMsSt5acy592pddlK?si=wJmUBxyHRNmjOxlCR2DTdQ)
 
-Live Album- Uzuner Consulting - 2016
+Live Album - Uzuner Consulting - 2016
 
 Mixing & Mastering
 
@@ -440,7 +442,7 @@ Mixing & Mastering
 
 [Yerçekimi - Olmuyor](https://open.spotify.com/album/5Vxp66P5gJh6lwO30jbx8M)
 
-Singles - Otomat -2015
+Singles - Otomat - 2015
 
 Recording & Mixing
 
@@ -448,7 +450,7 @@ Recording & Mixing
 
 [Yerçekimi - Dünyanın Son Günü](https://open.spotify.com/album/0ClesJJKPjbWYr3PUlGpQa)
 
-Singles - Otomat -2015
+Singles - Otomat - 2015
 
 Recording & Mixing
 
@@ -502,7 +504,7 @@ Recording
 
 ---
 
-Acaipademler –Marshall Planı \*
+Acaipademler – Marshall Planı \*
 
 Album - Self Release – 2010
 
@@ -530,7 +532,7 @@ Recording & Mixing
 
 Album - Fono – 2006
 
-Recording (with Selcuk Artut)
+Recording (with Selçuk Artut)
 
 ---
 
@@ -586,7 +588,7 @@ Director: Nesimi Yetik
 
 ---
 
-[Bir Sigmund Weinberg Belge-meseli](https://www.istanbulmodern.org/tr/sinema/pek-yakinda/bir-sigmund-weinberg-belge-meseli_2512.html)
+[Bir Sigmund Weinberg Belge-meseli](https://www.imdb.com/title/tt12638544/)
 
 Documentary - 2020
 
@@ -616,7 +618,7 @@ Director: Tarık Aktaş
 
 ---
 
-[Rüzgarda Salınan Nilüfer](http://film.iksv.org/en/film/3119) \*
+[Rüzgarda Salınan Nilüfer](https://www.imdb.com/title/tt5143586/) \*
 
 Feature Film - 2016
 
@@ -646,7 +648,7 @@ Director: Kaan Müjdeci
 
 ---
 
-[Yürümek](http://www.yurumek.net/) \*
+[Yürümek](https://bianet.org/haber/halil-savda-ile-barisa-yurumek-149444) \*
 
 Documentary - 2013
 
@@ -676,7 +678,7 @@ Director: Didem Pekün
 
 ---
 
-[The Foe](http://www.emekgul.com/videos.php)
+The Foe
 
 Video – 2007
 

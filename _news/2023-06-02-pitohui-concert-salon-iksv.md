@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Concert: Pitohui @ [Salon IKSV](https://saloniksv.com/tr/arti-1-hafta-sonu-dry-cleaning-once-pitohui?tarih=20:30/02/06/2023)
+Concert: Pitohui @ [Salon IKSV](https://saloniksv.com/)

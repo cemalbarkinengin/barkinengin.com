@@ -8,25 +8,25 @@ nav_order: 4
 
 #### August 2022 - Present
 
-Bahcesehir University Conservatory, Music Technology Department; Faculty Member
+Bahçeşehir University Conservatory, Music Technology Department; Faculty Member
 
 ---
 
 #### January 2020 - August 2022
 
-Bahcesehir University, Faculty of Communication; Faculty Member
+Bahçeşehir University, Faculty of Communication; Faculty Member
 
 ---
 
 #### September 2013 - January 2020
 
-Bahcesehir University, Audio Technology Graduate Program; Part-Time Lecturer
+Bahçeşehir University, Audio Technology Graduate Program; Part-Time Lecturer
 
 ---
 
 #### July 2018 - September 2018
 
-Sabanci University, Faculty of Arts and Social Sciences Department; Part-Time Lecturer
+Sabancı University, Faculty of Arts and Social Sciences Department; Part-Time Lecturer
 
 ---
 
@@ -36,9 +36,9 @@ Istanbul Technical University Center for Advanced Studies in Music; Part-Time Le
 
 ---
 
-#### July 2011- September 2013
+#### July 2011 - September 2013
 
-Sabanci University, Faculty of Arts and Social Sciences Department; Summer School; Part-Time Lecturer
+Sabancı University, Faculty of Arts and Social Sciences Department; Summer School; Part-Time Lecturer
 
 ---
 
@@ -50,7 +50,7 @@ SAE Istanbul, Full Time Sound Engineering Lecturer
 
 #### September 2009 – February 2010
 
-Sabanci University, Faculty of Arts and Social Sciences Department; Part-Time Lecturer
+Sabancı University, Faculty of Arts and Social Sciences Department; Part-Time Lecturer
 
 ---
 

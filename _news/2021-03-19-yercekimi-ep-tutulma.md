@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New Yerçekimi Ep "[Tutulma](https://open.spotify.com/album/18hFRgIsaZQqX2513eLawq?si=vW196EdjRXCo3btuLnVoYw)" is available on all digital platforms!
+New Yerçekimi EP "[Tutulma](https://open.spotify.com/album/18hFRgIsaZQqX2513eLawq?si=vW196EdjRXCo3btuLnVoYw)" is available on all digital platforms!

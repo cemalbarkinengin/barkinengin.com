@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Concert: Pitohui @ [paribuart](https://art.paribu.com/konser/pitohui)
+Concert: Pitohui @ [Paribu Art](https://art.paribu.com/konser/pitohui)
