@@ -8,6 +8,8 @@ nav_order: 3
 
 Works indicated with \* are collaborations with Metin Bozkurt and/or Burak Tamer.
 
+## Music
+
 ---
 
 [Dora Daema – Icarus](https://open.spotify.com/intl-tr/album/5GchgGiWpqkRW5a7v1XuZ8?si=a31uGGhRTB2cjbNIR3sMAA)
@@ -47,16 +49,6 @@ Mastering
 Album - Tarla Records -2025
 
 Mastering
-
----
-
-[A Tender Dream](https://www.imdb.com/title/tt10142094/) \*
-
-Short Film - 2025
-
-OST Mixing & Mastering
-
-Director: Nazlı Eda Noyan
 
 ---
 
@@ -222,27 +214,6 @@ Mixing & Mastering
 
 ---
 
-[Lacivert Gece](https://altinkozaff.org.tr/etkinlik-programi/) \*
-
-Feature Film - 2021
-
-Sound Design & Mixing
-
-Director: Muhammet Çakıral
-
----
-
-[Ali'nin Tabiatı](https://www.imdb.com/title/tt13900192/?ref_=nm_flmg_snd_3) \*
-
-Feature Film - 2021
-
-Sound Design & Mixing
-
-Director: Levent Çetin
-
-
----
-
 [Umut Töre Bandosu - Şeytan](https://open.spotify.com/album/20r8Jtzb3Ru82V9EggDnBU?si=m4woOsCuRIWXt9R--OHArQ)
 
 Single - Gri Plak- 2021
@@ -264,26 +235,6 @@ Recording & Mixing
 Album - Esc.rec - 2020
 
 Mixing & Mastering
-
----
-
-[Dirlik Düzenlik](https://film.iksv.org/tr/40-istanbul-film-festivali-2021/dirlik-duzenlik) \*
-
-Feature Film - 2020
-
-Sound Design & Mixing
-
-Director: Nesimi Yetik
-
----
-
-[Bir Sigmund Weinberg Belge-meseli](https://www.istanbulmodern.org/tr/sinema/pek-yakinda/bir-sigmund-weinberg-belge-meseli_2512.html)
-
-Documentary - 2020
-
-Mixing
-
-Director: Savaş Arslan
 
 ---
 
@@ -351,16 +302,6 @@ Mastering
 
 ---
 
-[Clouds](https://www.imdb.com/title/tt9892948/?ref_=nm_knf_i1)
-
-Documentary - 2019
-
-Sound Design & Mixing
-
-Director: Osman Nuri İyem
-
----
-
 [Erkan Sönmez  - I Have Lost You](https://open.spotify.com/album/5IPLCY6OkOIY4QvBSRSFZE)
 
 Single - Mirage - 2019
@@ -374,16 +315,6 @@ Mixing
 Single - Gri Plak- 2019
 
 Mixing
-
----
-
-[Dead Horse Nebula](https://www.imdb.com/title/tt8769528/?ref_=nv_sr_1)
-
-Feature Film - 2018
-
-Sound Editing & Design
-
-Director: Tarık Aktaş
 
 ---
 
@@ -491,16 +422,6 @@ Mixing
 
 ---
 
-[Rüzgarda Salınan Nilüfer](http://film.iksv.org/en/film/3119) \*
-
-Feature Film - 2016
-
-Sound Editing & Design
-
-Director: Seren Yüce
-
----
-
 [Kinesis - Miasma](https://open.spotify.com/album/6nDn8v2kByq27rH6xcyfhp)
 
 EP - We Play - 2016
@@ -541,26 +462,6 @@ Mixing
 
 ---
 
-[Toz Ruhu](https://www.imdb.com/title/tt4456036/?ref_=fn_al_tt_1) \*
-
-Feature Film - 2014
-
-Sound Designer & Re-recording Mixer
-
-Director: Nesimi Yetik
-
----
-
-[Sivas](https://www.imdb.com/title/tt3894344/?ref_=fn_al_tt_1) \*
-
-Feature Film - 2014
-
-Dialogue & Sound Editor
-
-Director: Kaan Müjdeci
-
----
-
 [Yerçekimi - Yerçekimi](https://open.spotify.com/album/4aNVbTzVGvHaykQKkIOP9N)
 
 Album - Otomat - 2014
@@ -585,16 +486,6 @@ Recording & Mixing
 
 ---
 
-[Yürümek](http://www.yurumek.net/) \*
-
-Documentary - 2013
-
-Sound Designer
-
-Director: Deniz Şengenç
-
----
-
 [Esmerine – Dalmak](https://open.spotify.com/album/354UHYRYJqNC4AZ4hRHG7s) \*
 
 Album - Constellation Records - 2013
@@ -608,27 +499,6 @@ Recording
 Album - Peyote Music – 2011
 
 Recording
-
----
-
-[Barış İçin Israrlıyız: Kadın Kenti Diyarbakır](http://www.bianet.org/bianet/toplumsal-cinsiyet/123846-8-mart-ta-diyarbakir-dan-cikan-bir-kadin-filmi) \*
-
-Documentary – 2010
-
-Re-recording Mixer
-
-Director: Melek Taylan
-
----
-
-
-[Tülay German: Kor ve Ateş Yılları](https://www.imdb.com/title/tt7681400/?ref_=nv_sr_srsg_1) \*
-
-Documentary - 2010
-
-Re-recording Mixer
-
-Director: Didem Pekün
 
 ---
 
@@ -656,6 +526,156 @@ Recording & Mixing
 
 ---
 
+[Dandadadan – Sen Bana Birini Android](https://open.spotify.com/album/5Vp1DaPow0ApgaEybH21DB)
+
+Album - Fono – 2006
+
+Recording (with Selcuk Artut)
+
+---
+
+[Selen Gülün – Sürprizler](https://open.spotify.com/album/70rkiW0obZJ1dcsb3vM4V5) \*
+
+Album - Rec Jazz – 2006
+
+Recording
+
+---
+
+## Film & Documentary
+
+---
+
+[A Tender Dream](https://www.imdb.com/title/tt10142094/) \*
+
+Short Film - 2025
+
+OST Mixing & Mastering
+
+Director: Nazlı Eda Noyan
+
+---
+
+[Lacivert Gece](https://altinkozaff.org.tr/etkinlik-programi/) \*
+
+Feature Film - 2021
+
+Sound Design & Mixing
+
+Director: Muhammet Çakıral
+
+---
+
+[Ali'nin Tabiatı](https://www.imdb.com/title/tt13900192/?ref_=nm_flmg_snd_3) \*
+
+Feature Film - 2021
+
+Sound Design & Mixing
+
+Director: Levent Çetin
+
+---
+
+[Dirlik Düzenlik](https://film.iksv.org/tr/40-istanbul-film-festivali-2021/dirlik-duzenlik) \*
+
+Feature Film - 2020
+
+Sound Design & Mixing
+
+Director: Nesimi Yetik
+
+---
+
+[Bir Sigmund Weinberg Belge-meseli](https://www.istanbulmodern.org/tr/sinema/pek-yakinda/bir-sigmund-weinberg-belge-meseli_2512.html)
+
+Documentary - 2020
+
+Mixing
+
+Director: Savaş Arslan
+
+---
+
+[Clouds](https://www.imdb.com/title/tt9892948/?ref_=nm_knf_i1)
+
+Documentary - 2019
+
+Sound Design & Mixing
+
+Director: Osman Nuri İyem
+
+---
+
+[Dead Horse Nebula](https://www.imdb.com/title/tt8769528/?ref_=nv_sr_1)
+
+Feature Film - 2018
+
+Sound Editing & Design
+
+Director: Tarık Aktaş
+
+---
+
+[Rüzgarda Salınan Nilüfer](http://film.iksv.org/en/film/3119) \*
+
+Feature Film - 2016
+
+Sound Editing & Design
+
+Director: Seren Yüce
+
+---
+
+[Toz Ruhu](https://www.imdb.com/title/tt4456036/?ref_=fn_al_tt_1) \*
+
+Feature Film - 2014
+
+Sound Designer & Re-recording Mixer
+
+Director: Nesimi Yetik
+
+---
+
+[Sivas](https://www.imdb.com/title/tt3894344/?ref_=fn_al_tt_1) \*
+
+Feature Film - 2014
+
+Dialogue & Sound Editor
+
+Director: Kaan Müjdeci
+
+---
+
+[Yürümek](http://www.yurumek.net/) \*
+
+Documentary - 2013
+
+Sound Designer
+
+Director: Deniz Şengenç
+
+---
+
+[Barış İçin Israrlıyız: Kadın Kenti Diyarbakır](http://www.bianet.org/bianet/toplumsal-cinsiyet/123846-8-mart-ta-diyarbakir-dan-cikan-bir-kadin-filmi) \*
+
+Documentary – 2010
+
+Re-recording Mixer
+
+Director: Melek Taylan
+
+---
+
+[Tülay German: Kor ve Ateş Yılları](https://www.imdb.com/title/tt7681400/?ref_=nv_sr_srsg_1) \*
+
+Documentary - 2010
+
+Re-recording Mixer
+
+Director: Didem Pekün
+
+---
+
 [The Foe](http://www.emekgul.com/videos.php)
 
 Video – 2007
@@ -666,14 +686,6 @@ Director: Mustafa Emek Gül
 
 ---
 
-[Dandadadan – Sen Bana Birini Android](https://open.spotify.com/album/5Vp1DaPow0ApgaEybH21DB)
-
-Album - Fono – 2006
-
-Recording (with Selcuk Artut)
-
----
-
 [Takva](http://www.imdb.com/title/tt0499262)
 
 Feature Film - 2006
@@ -681,13 +693,5 @@ Feature Film - 2006
 OST Mastering
 
 Director: Özer Kızıltan
-
----
-
-[Selen Gülün – Sürprizler](https://open.spotify.com/album/70rkiW0obZJ1dcsb3vM4V5) \*
-
-Album - Rec Jazz – 2006
-
-Recording
 
 ---
