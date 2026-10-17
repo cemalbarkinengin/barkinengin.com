@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Concert: Seslerde (Karen Willems, Zeynep Kaya Breaud & Ehsan Yadollahi) @ [Bos! Festival](https://www.facebook.com/events/8121063757919102)
+Concert: Seslerde (Karen Willems, Zeynep Kaya Beraud & Ehsan Yadollahi) @ [Bos! Festival](https://www.facebook.com/events/8121063757919102)
