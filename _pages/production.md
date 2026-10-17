@@ -10,6 +10,14 @@ Works indicated with \* are collaborations with Metin Bozkurt and/or Burak Tamer
 
 ---
 
+[Dora Daema – Icarus](https://open.spotify.com/intl-tr/album/5GchgGiWpqkRW5a7v1XuZ8?si=a31uGGhRTB2cjbNIR3sMAA)
+
+Single - 2026
+
+Mastering
+
+---
+
 [Deli Bakkal – Artistik Oyun Havaları](https://open.spotify.com/intl-tr/album/4dLmV2fMqN4vxASFqqP3il?si=wdHaj5yvRgmmn7Tm69cI8g)
 
 Album - 2026
@@ -232,15 +240,6 @@ Sound Design & Mixing
 
 Director: Levent Çetin
 
----
-
-[Dirlik Düzenlik](https://film.iksv.org/tr/40-istanbul-film-festivali-2021/dirlik-duzenlik) \*
-
-Feature Film - 2020
-
-Sound Design & Mixing
-
-Director: Nesimi Yetik
 
 ---
 
@@ -265,6 +264,16 @@ Recording & Mixing
 Album - Esc.rec - 2020
 
 Mixing & Mastering
+
+---
+
+[Dirlik Düzenlik](https://film.iksv.org/tr/40-istanbul-film-festivali-2021/dirlik-duzenlik) \*
+
+Feature Film - 2020
+
+Sound Design & Mixing
+
+Director: Nesimi Yetik
 
 ---
 
