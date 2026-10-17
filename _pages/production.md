@@ -172,7 +172,7 @@ Mixing
 
 ---
 
-[Bahr & Cursed Home Pt.1](https://open.spotify.com/album/2vDfSrxa58V6rnqHU9051H?si=FZajy41VRZiERTbhjJcprg)
+[Bahr - Cursed Home Pt.1](https://open.spotify.com/album/2vDfSrxa58V6rnqHU9051H?si=FZajy41VRZiERTbhjJcprg)
 
 Album - 2022
 
@@ -533,7 +533,7 @@ Recording & Mixing
 
 ---
 
-[Kırbinsinek - Sis Sus Pus](http://www.worldinsound.com/index.php/releases/contemporary-artists/kirkbinsinek) \*
+[Kırkbinsinek - Sis Sus Pus](http://www.worldinsound.com/index.php/releases/contemporary-artists/kirkbinsinek) \*
 
 Album - World In Sound - 2015
 
@@ -571,7 +571,7 @@ Recording & Mixing
 
 [Tuna Pase - Discotheque Sounds From The Cemetery](https://open.spotify.com/album/3PWZQWOj3kcdPYFL1u2cgX)
 
-Albüm - 2014
+Album - 2014
 
 Mastering
 
