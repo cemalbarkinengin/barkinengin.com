@@ -8,7 +8,7 @@ nav_order: 4
 
 #### August 2022 - Present
 
-Bahçeşehir University Conservatory, Music Technology Department; Faculty Member
+[Bahçeşehir University Conservatory, Music Technology Department](https://bau.edu.tr/kadro/15931-muzik-teknolojisi); Faculty Member
 
 ---
 
