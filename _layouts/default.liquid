@@ -20,6 +20,9 @@
     <!-- Header -->
     {% include header.liquid %}
 
+    <!-- Banner (pages with `banner:` in front matter) -->
+    {% include banner.liquid %}
+
     <!-- Content -->
     <div class="container mt-5" role="main">
       {% if page.toc and page.toc.sidebar %}

@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: Musician · Audio Engineer · Academic
+banner:
+  image: /assets/banner/stage-banner.jpg
+  image_small: /assets/banner/stage-banner-sm.jpg
 profile:
   align: right
   image: barkin_engin.jpg
@@ -23,4 +26,4 @@ Currently, he works as an associate professor at Bahçeşehir University Conserv
 
 Since 2005, Engin has also worked as a freelance audio engineer and sound designer for music and film productions, bringing his expertise to a diverse range of creative projects.
 
-Photo by Delizia Flaccavento.
+Portrait by Delizia Flaccavento. Stage photo by Özgür Elver.

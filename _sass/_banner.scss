@@ -1,0 +1,89 @@
+/*******************************************************************************
+ * Stage-photo banner (homepage). Image paths come from the page's `banner:` front matter.
+ ******************************************************************************/
+
+.stage-banner {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: min(36vw, 400px);
+  min-height: 250px;
+  color: $white-color;
+  background-color: #050505;
+  background-image: var(--banner-lg);
+  background-size: cover;
+  background-position: 62% 35%;
+  background-repeat: no-repeat;
+
+  // darken the left side so the name stays readable
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.85) 0%, rgba(0, 0, 0, 0.55) 33%, rgba(0, 0, 0, 0) 58%);
+  }
+
+  .stage-banner-inner {
+    position: relative;
+    width: 100%;
+    max-width: $max-content-width;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+
+  .stage-banner-title {
+    margin: 0;
+    color: $white-color;
+    font-size: 3rem;
+    font-weight: 300;
+    letter-spacing: 0.01em;
+
+    // the theme colours every <span> with the page text colour (black in light mode)
+    span {
+      color: inherit;
+    }
+  }
+
+  .stage-banner-subtitle {
+    margin: 0.5rem 0 0;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 0.8rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+  }
+
+  + .container {
+    margin-top: 2.2rem !important;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .stage-banner {
+    height: 280px;
+    min-height: 0;
+    align-items: flex-end;
+    background-image: var(--banner-sm);
+    background-position: 68% 30%;
+
+    // on phones the name sits at the bottom, over a shade
+    &::before {
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.55) 40%, rgba(0, 0, 0, 0) 72%);
+    }
+
+    .stage-banner-inner {
+      padding-bottom: 1.3rem;
+    }
+
+    .stage-banner-title {
+      font-size: 2.2rem;
+    }
+
+    .stage-banner-subtitle {
+      font-size: 0.68rem;
+      letter-spacing: 0.16em;
+    }
+  }
+}

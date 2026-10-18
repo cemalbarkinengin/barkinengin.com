@@ -1,0 +1,19 @@
+{% if page.banner %}
+  <section
+    class="stage-banner"
+    style="--banner-lg: url('{{ page.banner.image | relative_url }}'); --banner-sm: url('{{ page.banner.image_small | default: page.banner.image | relative_url }}');"
+  >
+    <div class="stage-banner-inner">
+      <h1 class="stage-banner-title">
+        {% if site.title == 'blank' %}
+          <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.last_name }}
+        {% else %}
+          {{ site.title }}
+        {% endif %}
+      </h1>
+      {% if page.subtitle %}
+        <p class="stage-banner-subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+    </div>
+  </section>
+{% endif %}
