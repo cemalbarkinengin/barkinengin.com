@@ -66,6 +66,7 @@ og_image: https://barkinengin.com/assets/banner/og-image.jpg # The site-wide (de
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: BarkinEngin # your X handle
+bluesky_url: https://bsky.app/profile/barkinengin.bsky.social # your Bluesky profile URL
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: bark%C4%B1n-engin # your LinkedIn user name
 telegram_username: # your Telegram user name

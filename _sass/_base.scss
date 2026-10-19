@@ -403,6 +403,22 @@ ul.task-list input[type="checkbox"] {
           color: var(--global-theme-color);
         }
       }
+
+      // Bluesky isn't in Font Awesome 6.4, so its icon (Font Awesome Free 6.7.2, CC BY 4.0) is drawn as a mask
+      .icon-bluesky {
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+        vertical-align: -0.125em;
+        background-color: var(--global-text-color);
+        -webkit-mask: url("../icons/bluesky.svg") center / contain no-repeat;
+        mask: url("../icons/bluesky.svg") center / contain no-repeat;
+        transition: background-color 0.2s ease-in-out;
+      }
+
+      &:hover .icon-bluesky {
+        background-color: var(--global-theme-color);
+      }
     }
   }
 
