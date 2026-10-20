@@ -506,7 +506,7 @@ Recording
 
 [Acaipademler – Marshall Planı](https://open.spotify.com/album/5wLGCD6xytQRhlfaTF3IW9) \*
 
-Album - Self Release – 2010
+Album - Independent – 2010
 
 Mixing
 
