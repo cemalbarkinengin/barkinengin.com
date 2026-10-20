@@ -1,0 +1,268 @@
+# Discography, shown as a cover grid on the Discography page.
+# To add a release: copy an entry within its section, change the fields, and put a square
+# cover image (about 500 x 500 px, .jpg) in assets/covers/ with the file name given in `cover`.
+# `url`, `note` and `cover` are optional; `artist` is used for guest appearances.
+
+- section: Solo
+  releases:
+    - title: Aural Recollections
+      url: https://open.spotify.com/intl-tr/album/6MkKkXo8Jzi4bUeHD9OjmV
+      label: Independent
+      year: 2025
+      cover: solo-aural-recollections.jpg
+
+- section: Replikas
+  link: http://www.replikas.com/
+  link_text: www.replikas.com
+  releases:
+    - title: Köledoyuran
+      url: https://open.spotify.com/album/27bt7bCnrrwYYbFec2Y97e
+      label: Ada Müzik
+      year: 2000
+      cover: replikas-koledoyuran.jpg
+    - title: Dadaruhi
+      url: https://open.spotify.com/album/0sKbkMp0HF9DhfEMA6sgOJ
+      label: Ada Müzik
+      year: 2002
+      cover: replikas-dadaruhi.jpg
+    - title: Avaz
+      url: https://open.spotify.com/album/4tiRXQuOW5ZohYnZCFvlId
+      label: Doublemoon
+      year: 2005
+      cover: replikas-avaz.jpg
+    - title: Film Müzikleri
+      url: https://www.opus3a.com/u/replikas-film-muzikleri-cd/58e491edd0070d188d2555bbe585fbfa
+      label: Pozitif
+      year: 2006
+      cover: replikas-film-muzikleri.jpg
+    - title: Zerre
+      url: https://open.spotify.com/album/120LMbCxyTL7dlxfwNbcos
+      label: Peyote Müzik
+      year: 2008
+      cover: replikas-zerre.jpg
+    - title: Biz Burada Yok İken
+      url: https://open.spotify.com/album/29icokQaQtiqB7eeQDzkxa
+      label: Ada Müzik
+      year: 2012
+      cover: replikas-biz-burada-yok-iken.jpg
+    - title: EP No.1
+      url: https://open.spotify.com/album/52Uba5xKThKjv9vE7oxDKG
+      label: Ada Müzik
+      year: 2013
+      cover: replikas-ep-no-1.jpg
+    - title: "Alfred Hitchcock's Blackmail - Live at Istanbul Modern"
+      url: https://replikas.bandcamp.com/album/alfred-hitchcocks-blackmail-live-at-istanbul-modern
+      label: Independent
+      year: 2014
+      cover: replikas-alfred-hitchcock-s-blackmail-live-at-istanbul-modern.jpg
+
+- section: Reverie Falls On All
+  link: http://www.reveriefallsonall.com/
+  link_text: www.reveriefallsonall.com
+  releases:
+    - title: Clouds In Our Room
+      url: https://open.spotify.com/album/36phzLLNkWEPSZlvyb3Xdn
+      label: Independent
+      year: 2006
+      cover: reverie-falls-on-all-clouds-in-our-room.jpg
+    - title: İMÇ EP
+      url: https://reveriefallsonall.bandcamp.com/album/m-ep
+      label: Independent
+      year: 2007
+      cover: reverie-falls-on-all-imc-ep.jpg
+    - title: "Music for Church Organ & Electronics"
+      url: https://reveriefallsonall.bandcamp.com/album/music-for-church-organ-electronics
+      label: Independent
+      year: 2008
+      note: with Ahmet Altınel
+      cover: reverie-falls-on-all-music-for-church-organ-electronics.jpg
+    - title: Passed Ones
+      url: https://reveriefallsonall.bandcamp.com/album/passed-ones
+      label: Independent
+      year: 2009
+      cover: reverie-falls-on-all-passed-ones.jpg
+    - title: Eta Carinae
+      url: https://open.spotify.com/album/4CE0dIFCIEgiZjFY09g0iO
+      label: Independent
+      year: 2014
+      note: 'Also on "An Anthology of Turkish Experimental Music" (Sub Rosa, 2017)'
+      cover: reverie-falls-on-all-eta-carinae.jpg
+    - title: Rebloom
+      url: https://open.spotify.com/album/401R4QPXzvu0gjh1I3LZ1g
+      label: Shalgam Records
+      year: 2015
+      cover: reverie-falls-on-all-rebloom.jpg
+    - title: Stellar Stream
+      url: https://open.spotify.com/album/3qGX8WkCnZVKtzaedFJT7Y
+      label: Independent
+      year: 2017
+      cover: reverie-falls-on-all-stellar-stream.jpg
+    - title: Everlasting Ripple
+      url: https://open.spotify.com/track/6g9STSquYu04KJTljJu4e9
+      label: Independent
+      year: 2019
+      cover: reverie-falls-on-all-everlasting-ripple.jpg
+    - title: Elusive Self
+      url: https://open.spotify.com/album/0INPDoHgoRMj0EqQr2BYAL
+      label: Independent
+      year: 2020
+      cover: reverie-falls-on-all-elusive-self.jpg
+    - title: Live at Yeldeğirmeni Sanat
+      url: https://open.spotify.com/intl-tr/album/4XDyAQV2UIpDVUQbh4Kefa
+      label: Independent
+      year: 2024
+      cover: reverie-falls-on-all-live-at-yeldegirmeni-sanat.jpg
+
+- section: Pitohui
+  link: http://pitohui.bandcamp.com/
+  link_text: pitohui.bandcamp.com
+  releases:
+    - title: Boros EP
+      url: https://open.spotify.com/album/3tlk6UvGpWPpBF6wpqS9Yv
+      label: Independent
+      year: 2013
+      cover: pitohui-boros-ep.jpg
+    - title: Devin EP
+      url: https://open.spotify.com/album/6UbFzc6hb7MjZQsFiP8FrI
+      label: Independent
+      year: 2014
+      cover: pitohui-devin-ep.jpg
+    - title: Devin RMX
+      url: https://open.spotify.com/album/6fIsMfIApm1BXxG0PKPSH9
+      label: Independent
+      year: 2014
+      cover: pitohui-devin-rmx.jpg
+    - title: Nar Nar
+      url: https://open.spotify.com/album/2adyAH7fHPIzrL3RtYTCUT
+      label: Independent
+      year: 2015
+      cover: pitohui-nar-nar.jpg
+    - title: Enspektör EP
+      url: https://open.spotify.com/album/7GRj6x8EAfZedaZOkbbnqB
+      label: Independent
+      year: 2016
+      cover: pitohui-enspektor-ep.jpg
+    - title: Gallo EP
+      url: https://open.spotify.com/album/0Z2P4pXNtdjv5SgrEKeK6Q
+      label: Shalgam Records
+      year: 2019
+      cover: pitohui-gallo-ep.jpg
+    - title: Foton
+      url: https://open.spotify.com/album/5qViFNjbtEnFHjgsg3VgsM
+      label: Shalgam Records
+      year: 2020
+      cover: pitohui-foton.jpg
+    - title: Reworks
+      url: https://open.spotify.com/album/22zoJJm8CoIubV4kQG784N
+      label: Shalgam Records
+      year: 2022
+      note: with wipeç
+      cover: pitohui-reworks.jpg
+    - title: Live EP
+      url: https://open.spotify.com/intl-tr/album/3k4gvN4E0NsqK3Fn8eS3BK
+      label: Shalgam Records
+      year: 2023
+      cover: pitohui-live-ep.jpg
+
+- section: Yerçekimi
+  link: https://yercekimi.bandcamp.com/
+  link_text: yercekimi.bandcamp.com
+  releases:
+    - title: Dünyanın Son Günü
+      url: https://open.spotify.com/album/0ClesJJKPjbWYr3PUlGpQa
+      label: Otomat
+      year: 2015
+      cover: yercekimi-dunyanin-son-gunu.jpg
+    - title: Olmuyor
+      url: https://open.spotify.com/album/5Vxp66P5gJh6lwO30jbx8M
+      label: Otomat
+      year: 2015
+      cover: yercekimi-olmuyor.jpg
+    - title: Daha Uzak
+      url: https://open.spotify.com/album/50Kw6Lpx1hhYh7dlkdLXbD
+      label: Otomat
+      year: 2017
+      cover: yercekimi-daha-uzak.jpg
+    - title: Tutulma
+      url: https://open.spotify.com/album/18hFRgIsaZQqX2513eLawq
+      label: Independent
+      year: 2021
+      cover: yercekimi-tutulma.jpg
+    - title: "4"
+      url: https://open.spotify.com/album/7Cbi4qKbsxEDhEkJzzwS4a
+      label: Independent
+      year: 2024
+      cover: yercekimi-4.jpg
+
+- section: "Barkın Engin & Tuna Pase"
+  link: https://barkinengintunapase.bandcamp.com/
+  link_text: barkinengintunapase.bandcamp.com
+  releases:
+    - title: Hazy Stars
+      url: https://open.spotify.com/album/4qVff2151lRXWF1OHOdNc9
+      label: Independent
+      year: 2014
+      cover: barkin-engin-tuna-pase-hazy-stars.jpg
+    - title: Rest
+      url: https://open.spotify.com/album/0563v1JQWP6OAKwjaRIgWH
+      label: Independent
+      year: 2018
+      cover: barkin-engin-tuna-pase-rest.jpg
+
+- section: "Karen Willems & Barkın Engin"
+  releases:
+    - title: Seslerde
+      url: https://werfrecords.bandcamp.com/album/seslerde-02
+      label: W.E.R.F. Records
+      year: 2020
+      cover: karen-willems-barkin-engin-seslerde.jpg
+
+- section: Guest Appearances
+  releases:
+    - artist: Acaipademler
+      title: Günahlar
+      label: Self release
+      year: 2010
+      cover: guest-acaipademler-gunahlar.jpg
+    - artist: Yerçekimi
+      title: Deniz Kenarında
+      url: https://open.spotify.com/track/5hGeMgKXmXogHHpzYG5fd4
+      label: Otomat
+      year: 2014
+      cover: guest-yercekimi-deniz-kenarinda.jpg
+    - artist: Inwolves
+      title: She Needs Air
+      url: https://inwolves.bandcamp.com/album/color-in-the-zoo
+      label: Vynilla (Vinyl) / 9000 records by Consouling Sounds (CD)
+      year: 2018
+      cover: guest-inwolves-she-needs-air.jpg
+    - artist: Nihan Devecioglu
+      title: "25"
+      url: https://open.spotify.com/track/4qketgF6RDmNCSUBdoM9i9
+      label: Whatabout Music
+      year: 2019
+      cover: guest-nihan-devecioglu-25.jpg
+    - artist: Karen Willems
+      title: Panneblues
+      url: https://karenwillems.bandcamp.com/album/schreve-04
+      label: Taping Policies
+      year: 2020
+      cover: guest-karen-willems-panneblues.jpg
+    - artist: Şevket Akıncı
+      title: Denya Sub Ether Radio
+      url: https://open.spotify.com/track/5x9sdszROvHXyPkifTyl6s
+      label: Tarla Records
+      year: 2021
+      cover: guest-sevket-akinci-denya-sub-ether-radio.jpg
+    - artist: gUgUoU
+      title: Worlbmon
+      url: https://open.spotify.com/album/43Eh0ceY7fIAgA7zYZkklo
+      label: Shalgam Records
+      year: 2023
+      cover: guest-guguou-worlbmon.jpg
+    - artist: gUgUoU
+      title: Kendinin DAnsı
+      url: https://open.spotify.com/album/197wqNuhJ7kY7IV7KQsqk8
+      label: Purplish Records
+      year: 2024
+      cover: guest-guguou-kendinin-dansi.jpg

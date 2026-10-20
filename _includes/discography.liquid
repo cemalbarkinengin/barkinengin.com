@@ -1,0 +1,50 @@
+<div class="discography">
+  {% for group in site.data.discography %}
+    <section class="disco-section">
+      <h2 class="disco-heading">
+        {{ group.section }}
+        {% if group.link %}
+          <a class="disco-heading-link" href="{{ group.link }}">{{ group.link_text | default: group.link }}</a>
+        {% endif %}
+      </h2>
+      <div class="disco-grid">
+        {% for release in group.releases %}
+          {% assign cover_exists = 'false' %}
+          {% if release.cover %}
+            {% capture cover_exists %}{% file_exists assets/covers/{{ release.cover }} %}{% endcapture %}
+          {% endif %}
+          {% if release.url %}
+            <a class="disco-card" href="{{ release.url }}">
+          {% else %}
+            <div class="disco-card">
+          {% endif %}
+          {% if cover_exists == 'true' %}
+            <img
+              class="disco-cover"
+              src="{{ release.cover | prepend: '/assets/covers/' | relative_url }}"
+              alt=""
+              width="400"
+              height="400"
+              loading="lazy"
+            >
+          {% else %}
+            <span class="disco-cover disco-placeholder" aria-hidden="true">{{ release.title }}</span>
+          {% endif %}
+          <span class="disco-title">{{ release.title }}</span>
+          {% if release.artist %}
+            <span class="disco-artist">{{ release.artist }}</span>
+          {% endif %}
+          <span class="disco-meta">{{ release.label }} · {{ release.year }}</span>
+          {% if release.note %}
+            <span class="disco-meta">{{ release.note }}</span>
+          {% endif %}
+          {% if release.url %}
+            </a>
+          {% else %}
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </section>
+  {% endfor %}
+</div>

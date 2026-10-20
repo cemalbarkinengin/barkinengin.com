@@ -1,0 +1,115 @@
+/*******************************************************************************
+ * Discography cover grid (data in _data/discography.yml, covers in assets/covers/)
+ ******************************************************************************/
+
+.discography {
+  .disco-section {
+    margin-bottom: 2.75rem;
+  }
+
+  .disco-heading {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.25rem 0.75rem;
+    margin: 0 0 1rem;
+    font-size: 1.35rem;
+    font-weight: 500;
+  }
+
+  .disco-heading-link {
+    font-size: 0.8rem;
+    font-weight: 400;
+  }
+
+  .disco-grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1.6rem 1rem;
+  }
+
+  .disco-card {
+    display: block;
+    color: var(--global-text-color);
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: none;
+
+      .disco-cover {
+        transform: translateY(-3px);
+        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+      }
+
+      .disco-title {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  .disco-cover {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 4px;
+    background-color: var(--global-divider-color);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
+    transition:
+      transform 0.2s ease,
+      box-shadow 0.2s ease;
+  }
+
+  // shown when a release has no cover image yet
+  .disco-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.75rem;
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--global-text-color);
+    opacity: 0.75;
+  }
+
+  // the theme colours every <span>, so these need to be explicit
+  .disco-title {
+    display: block;
+    margin-top: 0.55rem;
+    font-size: 0.95rem;
+    font-weight: 500;
+    line-height: 1.3;
+    color: var(--global-text-color);
+    transition: color 0.2s ease;
+  }
+
+  .disco-artist {
+    display: block;
+    font-size: 0.85rem;
+    line-height: 1.35;
+    color: var(--global-text-color);
+  }
+
+  .disco-meta {
+    display: block;
+    margin-top: 0.15rem;
+    font-size: 0.78rem;
+    line-height: 1.35;
+    color: var(--global-text-color);
+    opacity: 0.72;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .discography .disco-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 575.98px) {
+  .discography .disco-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.3rem 0.85rem;
+  }
+}
