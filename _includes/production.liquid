@@ -1,0 +1,59 @@
+<div class="discography works">
+  {% for group in site.data.production %}
+    {% assign is_film = false %}
+    {% if group.section contains 'Film' %}
+      {% assign is_film = true %}
+    {% endif %}
+    <section class="disco-section">
+      <h2 class="disco-heading" id="{{ group.section | slugify }}">{{ group.section }}</h2>
+      <div class="disco-grid">
+        {% for work in group.works %}
+          {% assign image_exists = 'false' %}
+          {% if work.image %}
+            {% capture image_exists %}{% file_exists assets/covers/works/{{ work.image }} %}{% endcapture %}
+          {% endif %}
+          {% if work.url %}
+            <a class="disco-card" href="{{ work.url }}">
+          {% else %}
+            <div class="disco-card">
+          {% endif %}
+          {% if image_exists == 'true' %}
+            <img
+              class="disco-cover{% if is_film %} is-poster{% endif %}"
+              src="{{ work.image | prepend: '/assets/covers/works/' | relative_url }}"
+              alt=""
+              width="400"
+              height="{% if is_film %}600{% else %}400{% endif %}"
+              loading="lazy"
+            >
+          {% else %}
+            <span class="disco-cover disco-placeholder{% if is_film %} is-poster{% endif %}" aria-hidden="true">{{ work.title }}</span>
+          {% endif %}
+          <span class="disco-title">
+            {{- work.title -}}
+            {%- if work.collab -%}
+              <span class="disco-collab" title="Collaboration with Metin Bozkurt and/or Burak Tamer"> *</span>
+            {%- endif -%}
+          </span>
+          {% if work.artist %}
+            <span class="disco-artist">{{ work.artist }}</span>
+          {% endif %}
+          <span class="disco-meta">
+            {{- work.type }}{% if work.label %} · {{ work.label }}{% endif %} · {{ work.year -}}
+          </span>
+          {% for credit in work.credits %}
+            <span class="disco-credit">{{ credit }}</span>
+          {% endfor %}
+          {% if work.director %}
+            <span class="disco-meta">Director: {{ work.director }}</span>
+          {% endif %}
+          {% if work.url %}
+            </a>
+          {% else %}
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </section>
+  {% endfor %}
+</div>

@@ -1,0 +1,724 @@
+# Selected production works, shown as a grid on the Selected Production Works page.
+# Music works show a square cover, film & documentary works a portrait poster.
+# To add a work: copy an entry within its section and change the fields; put the image
+# (.jpg; square ~400 px for music, portrait ~400 x 600 px for film) in assets/covers/works/
+# with the file name given in `image`. `collab: true` adds the * (collaboration) mark.
+
+- section: Music
+  works:
+    - artist: Dora Daema
+      title: Icarus
+      url: https://open.spotify.com/intl-tr/album/5GchgGiWpqkRW5a7v1XuZ8
+      type: Single
+      year: 2026
+      credits:
+        - Mastering
+      image: music-dora-daema-icarus.jpg
+    - artist: Deli Bakkal
+      title: Artistik Oyun Havaları
+      url: https://open.spotify.com/intl-tr/album/4dLmV2fMqN4vxASFqqP3il
+      type: Album
+      year: 2026
+      credits:
+        - Mastering
+      image: music-deli-bakkal-artistik-oyun-havalari.jpg
+    - artist: Arda Kül
+      title: Buzlar Eriyene Kadar
+      url: https://open.spotify.com/intl-tr/track/06GfdAcg8LeE2lWvHTr8D1
+      type: Single
+      year: 2025
+      credits:
+        - Mastering
+      image: music-arda-kul-buzlar-eriyene-kadar.jpg
+    - artist: Arda Kül
+      title: Manolya
+      url: https://open.spotify.com/intl-tr/album/7IIXpwPq8pzhYkPd7696NT
+      type: Single
+      year: 2025
+      credits:
+        - Mastering
+      image: music-arda-kul-manolya.jpg
+    - artist: Şevket Akıncı
+      title: Camera Obscura
+      url: https://open.spotify.com/intl-tr/album/6duhVkQGC9ymBbNSLK7wx2
+      type: Album
+      label: Tarla Records
+      year: 2025
+      credits:
+        - Mastering
+      image: music-sevket-akinci-camera-obscura.jpg
+    - artist: Cymin Samawatie
+      title: Temas
+      url: https://open.spotify.com/intl-tr/album/0m2acBYzOwXJz99SPPKu2i
+      type: Album
+      label: İki Müzik
+      year: 2025
+      credits:
+        - Mixing & Mastering
+      image: music-cymin-samawatie-temas.jpg
+    - artist: Kuş Kolektifi
+      title: Miras
+      url: https://open.spotify.com/intl-tr/album/6wWb4OOUQtfx2cC7YYcZdf
+      type: EP
+      year: 2025
+      credits:
+        - Mastering
+      image: music-kus-kolektifi-miras.jpg
+    - artist: Bahr
+      title: Ursine
+      url: https://open.spotify.com/intl-tr/album/0Ol4rqUcxsofU4Q7QArD6k
+      type: Album
+      year: 2025
+      credits:
+        - Mastering
+      image: music-bahr-ursine.jpg
+    - artist: Padme
+      title: Jest OST
+      url: https://open.spotify.com/intl-tr/album/2lsuUl9fGjD8ZQFJB3DFEI
+      type: EP
+      label: Tamar Records
+      year: 2024
+      credits:
+        - Mixing & Mastering
+      image: music-padme-jest-ost.jpg
+    - artist: gUgUoU
+      title: A Great Place to Be Locked Up
+      url: https://open.spotify.com/album/197wqNuhJ7kY7IV7KQsqk8
+      type: EP
+      label: Purplish Records
+      year: 2024
+      credits:
+        - Mixing
+      image: music-guguou-a-great-place-to-be-locked-up.jpg
+    - artist: Daima
+      title: Fer
+      url: https://open.spotify.com/intl-tr/album/2ri6etCYmrlkc7Ub80yM8V
+      type: Single
+      year: 2024
+      credits:
+        - Mastering
+      image: music-daima-fer.jpg
+    - artist: Umut Töre Bandosu
+      title: Bir İleri Bir Geri
+      url: https://open.spotify.com/album/1HvmTf8KdX2lW5XfFr1iLm
+      type: Single
+      label: Ellipsis
+      year: 2024
+      credits:
+        - Mixing & Mastering
+      image: music-umut-tore-bandosu-bir-ileri-bir-geri.jpg
+    - artist: Padme
+      title: Hala!!
+      url: https://open.spotify.com/album/4v3RuUrzjtvoQqOb7RG8wM
+      type: Album
+      label: Tamar Records
+      year: 2023
+      credits:
+        - Mixing & Mastering
+      image: music-padme-hala.jpg
+    - artist: Akın Orbay
+      title: Scary Maximalism
+      url: https://open.spotify.com/album/68PtqN9ep0vDKW4nLcOflJ
+      type: Album
+      label: Miskin Records
+      year: 2023
+      credits:
+        - Mastering
+      image: music-akin-orbay-scary-maximalism.jpg
+    - artist: Karen Willems
+      title: KAAP MIJ
+      url: https://karenwillems.bandcamp.com/album/kaap-mij
+      type: Album
+      label: W.E.R.F. Records
+      year: 2023
+      credits:
+        - Mixing & Mastering
+      image: music-karen-willems-kaap-mij.jpg
+    - artist: wipeç
+      title: RE.V.
+      url: https://open.spotify.com/album/3qZI6jvJWptCjGKnWakFF6
+      type: Album
+      label: Airport Patrons
+      year: 2023
+      credits:
+        - Mastering
+      image: music-wipec-re-v.jpg
+    - artist: Denzi & Rinxlaya
+      title: Frontal
+      url: https://open.spotify.com/album/0gf7zQ3IwNlt8uKNfTryg4
+      type: Single
+      label: Universal
+      year: 2023
+      credits:
+        - Recording, Mixing & Mastering
+      collab: true
+      image: music-denzi-rinxlaya-frontal.jpg
+    - artist: Nihal Saruhanlı
+      title: Pieces & Parts No.1
+      url: https://open.spotify.com/track/4EiWpfHgQfUPVaR6A8mWIp
+      type: Single
+      year: 2023
+      credits:
+        - Mixing & Mastering
+      image: music-nihal-saruhanli-pieces-parts-no-1.jpg
+    - artist: Umut Töre Bandosu
+      title: Seyret
+      url: https://open.spotify.com/album/0EzOCDSmBynnVQIAkryQDn
+      type: Single
+      label: Gri Plak
+      year: 2022
+      credits:
+        - Mixing
+      image: music-umut-tore-bandosu-seyret.jpg
+    - artist: Bahr
+      title: Cursed Home Pt.1
+      url: https://open.spotify.com/album/2vDfSrxa58V6rnqHU9051H
+      type: Album
+      year: 2022
+      credits:
+        - Mixing & Mastering
+      image: music-bahr-cursed-home-pt-1.jpg
+    - artist: wipeç
+      title: E.V.
+      url: https://open.spotify.com/album/32fmQ1HqZ9iZcX6znsK4sH
+      type: Album
+      label: Airport Patrons
+      year: 2022
+      credits:
+        - Mastering
+      image: music-wipec-e-v.jpg
+    - artist: Bahr
+      title: Cursed Home
+      url: https://open.spotify.com/album/1XsZmM7yioMieflspiREIB
+      type: Single
+      year: 2022
+      credits:
+        - Mixing & Mastering
+      image: music-bahr-cursed-home.jpg
+    - artist: Karen Willems
+      title: Grichte
+      url: https://werfrecords.bandcamp.com/album/grichte
+      type: Album
+      label: W.E.R.F. Records
+      year: 2022
+      credits:
+        - "Grichte 1: Mixing & Mastering"
+        - "Grichte 2: Mastering"
+      image: music-karen-willems-grichte.jpg
+    - artist: Melted
+      title: Lack of Belonging
+      url: https://open.spotify.com/album/7b8VOO3Tb817UfeUz20Zfn
+      type: Album
+      label: Hexe Music
+      year: 2022
+      credits:
+        - Mixing
+      image: music-melted-lack-of-belonging.jpg
+    - artist: Bahr & Glasxs
+      title: Papilon
+      url: https://open.spotify.com/album/7lstzgHsVMmGjH1gehcaQt
+      type: Single
+      year: 2022
+      credits:
+        - Mixing & Mastering
+      image: music-bahr-glasxs-papilon.jpg
+    - artist: Umut Töre Bandosu
+      title: Şeytan
+      url: https://open.spotify.com/album/20r8Jtzb3Ru82V9EggDnBU
+      type: Single
+      label: Gri Plak
+      year: 2021
+      credits:
+        - Mixing
+      image: music-umut-tore-bandosu-seytan.jpg
+    - artist: Öykü Aras
+      title: İçimize Doğu
+      url: https://open.spotify.com/album/5BBuwVmlgVImiNt7llKV26
+      type: Album
+      label: Shalgam Records
+      year: 2021
+      credits:
+        - Recording & Mixing
+      image: music-oyku-aras-icimize-dogu.jpg
+    - artist: Karen Willems
+      title: Bentillse Berber 03
+      url: https://escrec.bandcamp.com/album/bentillse-berber-03
+      type: Album
+      label: Esc.rec
+      year: 2020
+      credits:
+        - Mixing & Mastering
+      image: music-karen-willems-bentillse-berber-03.jpg
+    - artist: Bahr
+      title: I Resist
+      url: https://open.spotify.com/album/2DZLMftHoRiJuDVuzcQR9J
+      type: EP
+      label: Dokuz Sekiz Müzik
+      year: 2020
+      credits:
+        - Mastering
+      image: music-bahr-i-resist.jpg
+    - artist: Goralı
+      title: Room
+      url: https://gorali.bandcamp.com/track/room
+      type: Single
+      year: 2020
+      credits:
+        - Mixing & Mastering
+      image: music-gorali-room.jpg
+    - artist: Erol Berksen
+      title: Karşıyaka
+      url: https://open.spotify.com/track/1rDASSr8kJ3DJkLjkqpBVM
+      type: Single
+      year: 2020
+      credits:
+        - Mixing
+      image: music-erol-berksen-karsiyaka.jpg
+    - artist: Uç Uç
+      title: The Constant Fear of Being Judged (By You)
+      url: https://open.spotify.com/album/3q2QE93DNwDhVRxEfEqBtn
+      type: Album
+      year: 2020
+      credits:
+        - Mixing
+      image: music-uc-uc-the-constant-fear-of-being-judged-by-you.jpg
+    - artist: Haşmet Asilkan
+      title: Bundan Sonraki Günlerimiz Hatırlamakla Geçecek
+      url: https://open.spotify.com/album/6z6HuZt605bI61S2fwy5Py
+      type: Album
+      year: 2019
+      credits:
+        - Mixing
+      image: music-hasmet-asilkan-bundan-sonraki-gunlerimiz-hatirlamakla-gececek.jpg
+    - artist: İstanbul'dan
+      title: Yola Çıktık
+      url: https://open.spotify.com/album/6yPDL5vcNoR1HuHbNyx64L
+      type: Album
+      year: 2019
+      credits:
+        - Mixing
+      image: music-istanbul-dan-yola-ciktik.jpg
+    - artist: Umut Töre Bandosu
+      title: Koza
+      url: https://open.spotify.com/album/0XIAIqnFEjOhnOqKXkOOy7
+      type: Single
+      label: Gri Plak
+      year: 2019
+      credits:
+        - Mixing
+      image: music-umut-tore-bandosu-koza.jpg
+    - artist: gUgUoU
+      title: Pas Matri
+      url: https://open.spotify.com/album/3CoeQoe1YF8WbmuepgFf3l
+      type: Album
+      label: Shalgam Records
+      year: 2019
+      credits:
+        - Mastering
+      image: music-guguou-pas-matri.jpg
+    - artist: Erkan Sönmez
+      title: I Have Lost You
+      url: https://open.spotify.com/album/5IPLCY6OkOIY4QvBSRSFZE
+      type: Single
+      label: Mirage
+      year: 2019
+      credits:
+        - Mixing
+      image: music-erkan-sonmez-i-have-lost-you.jpg
+    - artist: Umut Töre  Bandosu
+      title: Ayı
+      url: https://open.spotify.com/album/6hXJuhzg9GBH7AHUpfPjQr
+      type: Single
+      label: Gri Plak
+      year: 2019
+      credits:
+        - Mixing
+      image: music-umut-tore-bandosu-ayi.jpg
+    - artist: Maan
+      title: Yüzüstü
+      url: https://open.spotify.com/album/21pLNZwsa91FMcR0albkbz
+      type: Album
+      label: Müzik Hayvanı
+      year: 2018
+      credits:
+        - Recording
+      image: music-maan-yuzustu.jpg
+    - artist: Balina
+      title: Kaybetmenin Mitolojisi
+      url: https://open.spotify.com/album/3pJlXbuaT5MV90QkHJ29Ov
+      type: EP
+      label: Ada Müzik
+      year: 2017
+      credits:
+        - Recording & Mixing
+      image: music-balina-kaybetmenin-mitolojisi.jpg
+    - artist: Can Karadoğan
+      title: Kahraman Gölgeleri
+      url: https://open.spotify.com/album/6CMSaT9x7RQT93ow4y2UeO
+      type: Album
+      label: Gri Plak
+      year: 2017
+      credits:
+        - Mixing
+      image: music-can-karadogan-kahraman-golgeleri.jpg
+    - artist: Begüm Tarako
+      title: Alaca (feat. İlke Hatipoğlu)
+      url: https://open.spotify.com/album/2If6VdDNt2rcD3K4i2WITI
+      type: Single
+      label: DMC
+      year: 2017
+      credits:
+        - Mixing
+      image: music-begum-tarako-alaca-feat-ilke-hatipoglu.jpg
+    - artist: Ars Longa
+      title: Yüreğim İmparator
+      url: https://www.opus3a.com/u/ars-longa-yuregim-imparator-single-plak/48046f4cc8b1eb3f1792e5f8769a5a96
+      type: Single
+      label: Sony Music
+      year: 2017
+      credits:
+        - Mixing (Vinyl version)
+      image: music-ars-longa-yuregim-imparator.jpg
+    - artist: Goralı
+      title: Qualia
+      url: https://open.spotify.com/album/6winh4YmPESMRqshxguN7F
+      type: Album
+      year: 2017
+      credits:
+        - Mixing
+      image: music-gorali-qualia.jpg
+    - artist: Şevket Akıncı
+      title: Escher Chronicles
+      url: https://open.spotify.com/album/775C4bi1lq0YSYfzImBzb9
+      type: Album
+      label: A.K. Müzik
+      year: 2017
+      credits:
+        - Mixing & Additional Recording
+      image: music-sevket-akinci-escher-chronicles.jpg
+    - artist: Yank
+      title: I/I
+      url: https://open.spotify.com/album/31e5dr4JikIPIao3VsCJan
+      type: EP
+      label: Who Are We Who We Are
+      year: 2016
+      credits:
+        - Mastering
+      image: music-yank-i-i.jpg
+    - artist: İpek Görgün
+      title: Aphelion
+      url: https://open.spotify.com/album/7mfvTb3xfSd4OJU4zkSl2M
+      type: Album
+      label: Touch Line
+      year: 2016
+      credits:
+        - Mastering
+      image: music-ipek-gorgun-aphelion.jpg
+    - artist: Tuna Pase
+      title: Night Music
+      url: https://open.spotify.com/album/03M6ncCXOtA2YTZzcCnu3z
+      type: Album
+      label: CD Baby
+      year: 2016
+      credits:
+        - Mixing & Mastering
+      image: music-tuna-pase-night-music.jpg
+    - artist: Özgür Yılmaz
+      title: Ora
+      url: https://open.spotify.com/album/6IF28oD8U24HI40Xpvq2lP
+      type: Album
+      label: Shalgam Records
+      year: 2016
+      credits:
+        - Mixing
+      image: music-ozgur-yilmaz-ora.jpg
+    - artist: Nihan & The Single Camels
+      title: Live in Sendesaal Bremen
+      url: https://open.spotify.com/album/3qCRKUMsSt5acy592pddlK
+      type: Live Album
+      label: Uzuner Consulting
+      year: 2016
+      credits:
+        - Mixing & Mastering
+      image: music-nihan-the-single-camels-live-in-sendesaal-bremen.jpg
+    - artist: The Ousted
+      title: The Ousted
+      url: https://open.spotify.com/album/4eRsdzaB0H7LUfUPi5bORl
+      type: EP
+      label: Self Release
+      year: 2016
+      credits:
+        - Mixing
+      image: music-the-ousted-the-ousted.jpg
+    - artist: Kinesis
+      title: Miasma
+      url: https://open.spotify.com/album/6nDn8v2kByq27rH6xcyfhp
+      type: EP
+      label: We Play
+      year: 2016
+      credits:
+        - Recording & Mixing
+      image: music-kinesis-miasma.jpg
+    - artist: Tuna Pase
+      title: Under the Tree
+      url: https://open.spotify.com/album/1mBp763lV6fJpWxfLJVrEF
+      type: Album
+      label: CD Baby
+      year: 2015
+      credits:
+        - Mixing & Mastering
+      image: music-tuna-pase-under-the-tree.jpg
+    - artist: Yerçekimi
+      title: Olmuyor
+      url: https://open.spotify.com/album/5Vxp66P5gJh6lwO30jbx8M
+      type: Singles
+      label: Otomat
+      year: 2015
+      credits:
+        - Recording & Mixing
+      image: music-yercekimi-olmuyor.jpg
+    - artist: Yerçekimi
+      title: Dünyanın Son Günü
+      url: https://open.spotify.com/album/0ClesJJKPjbWYr3PUlGpQa
+      type: Singles
+      label: Otomat
+      year: 2015
+      credits:
+        - Recording & Mixing
+      image: music-yercekimi-dunyanin-son-gunu.jpg
+    - artist: Kırkbinsinek
+      title: Sis Sus Pus
+      url: http://www.worldinsound.com/index.php/releases/contemporary-artists/kirkbinsinek
+      type: Album
+      label: World In Sound
+      year: 2015
+      credits:
+        - Mixing
+      collab: true
+      image: music-kirkbinsinek-sis-sus-pus.jpg
+    - artist: Yerçekimi
+      title: Yerçekimi
+      url: https://open.spotify.com/album/4aNVbTzVGvHaykQKkIOP9N
+      type: Album
+      label: Otomat
+      year: 2014
+      credits:
+        - Recording & Mixing
+      image: music-yercekimi-yercekimi.jpg
+    - artist: Tuna Pase
+      title: Discotheque Sounds From The Cemetery
+      url: https://open.spotify.com/album/3PWZQWOj3kcdPYFL1u2cgX
+      type: Album
+      year: 2014
+      credits:
+        - Mastering
+      image: music-tuna-pase-discotheque-sounds-from-the-cemetery.jpg
+    - artist: Kinesis
+      title: Lavdanom
+      url: http://kinesis.bandcamp.com/
+      type: EP
+      year: 2014
+      credits:
+        - Recording & Mixing
+      collab: true
+      image: music-kinesis-lavdanom.jpg
+    - artist: Esmerine
+      title: Dalmak
+      url: https://open.spotify.com/album/354UHYRYJqNC4AZ4hRHG7s
+      type: Album
+      label: Constellation Records
+      year: 2013
+      credits:
+        - Recording
+      collab: true
+      image: music-esmerine-dalmak.jpg
+    - artist: Haossaa
+      title: Haossaa
+      url: https://open.spotify.com/album/67NVnwkBnkMJlKfhgXAhad
+      type: Album
+      label: Peyote Music
+      year: 2011
+      credits:
+        - Recording
+      collab: true
+      image: music-haossaa-haossaa.jpg
+    - artist: Acaipademler
+      title: Marshall Planı
+      url: https://open.spotify.com/album/5wLGCD6xytQRhlfaTF3IW9
+      type: Album
+      label: Independent
+      year: 2010
+      credits:
+        - Mixing
+      collab: true
+      image: music-acaipademler-marshall-plani.jpg
+    - artist: Sakareller
+      title: Beş Dakika Daha
+      url: https://open.spotify.com/album/2RhZdN0r9zml1mnh9DQApe
+      type: Album
+      label: Peyote Music
+      year: 2010
+      credits:
+        - Recording & Mixing
+      collab: true
+      image: music-sakareller-bes-dakika-daha.jpg
+    - artist: Ricochet
+      title: The Burning One
+      url: https://open.spotify.com/album/65eaSz3hVdNETYPE8xAQuj
+      type: Album
+      label: Peyote Music
+      year: 2010
+      credits:
+        - Recording & Mixing
+      image: music-ricochet-the-burning-one.jpg
+    - artist: Dandadadan
+      title: Sen Bana Birini Android
+      url: https://open.spotify.com/album/5Vp1DaPow0ApgaEybH21DB
+      type: Album
+      label: Fono
+      year: 2006
+      credits:
+        - Recording (with Selçuk Artut)
+      image: music-dandadadan-sen-bana-birini-android.jpg
+    - artist: Selen Gülün
+      title: Sürprizler
+      url: https://open.spotify.com/album/70rkiW0obZJ1dcsb3vM4V5
+      type: Album
+      label: Rec Jazz
+      year: 2006
+      credits:
+        - Recording
+      collab: true
+      image: music-selen-gulun-surprizler.jpg
+
+- section: Film & Documentary
+  works:
+    - title: A Tender Dream
+      url: https://www.imdb.com/title/tt10142094/
+      type: Short Film
+      year: 2025
+      credits:
+        - OST Mixing & Mastering
+      director: Nazlı Eda Noyan
+      collab: true
+      image: film-a-tender-dream.jpg
+    - title: Lacivert Gece
+      url: https://altinkozaff.org.tr/etkinlik-programi/
+      type: Feature Film
+      year: 2021
+      credits:
+        - Sound Design & Mixing
+      director: Muhammet Çakıral
+      collab: true
+      image: film-lacivert-gece.jpg
+    - title: Ali'nin Tabiatı
+      url: https://www.imdb.com/title/tt13900192/
+      type: Feature Film
+      year: 2021
+      credits:
+        - Sound Design & Mixing
+      director: Levent Çetin
+      collab: true
+      image: film-ali-nin-tabiati.jpg
+    - title: Dirlik Düzenlik
+      url: https://film.iksv.org/tr/40-istanbul-film-festivali-2021/dirlik-duzenlik
+      type: Feature Film
+      year: 2020
+      credits:
+        - Sound Design & Mixing
+      director: Nesimi Yetik
+      collab: true
+      image: film-dirlik-duzenlik.jpg
+    - title: Bir Sigmund Weinberg Belge-meseli
+      url: https://www.imdb.com/title/tt12638544/
+      type: Documentary
+      year: 2020
+      credits:
+        - Mixing
+      director: Savaş Arslan
+      image: film-bir-sigmund-weinberg-belge-meseli.jpg
+    - title: Clouds
+      url: https://www.imdb.com/title/tt9892948/
+      type: Documentary
+      year: 2019
+      credits:
+        - Sound Design & Mixing
+      director: Osman Nuri İyem
+      image: film-clouds.jpg
+    - title: Dead Horse Nebula
+      url: https://www.imdb.com/title/tt8769528/
+      type: Feature Film
+      year: 2018
+      credits:
+        - Sound Editing & Design
+      director: Tarık Aktaş
+      image: film-dead-horse-nebula.jpg
+    - title: Rüzgarda Salınan Nilüfer
+      url: https://www.imdb.com/title/tt5143586/
+      type: Feature Film
+      year: 2016
+      credits:
+        - Sound Editing & Design
+      director: Seren Yüce
+      collab: true
+      image: film-ruzgarda-salinan-nilufer.jpg
+    - title: Toz Ruhu
+      url: https://www.imdb.com/title/tt4456036/
+      type: Feature Film
+      year: 2014
+      credits:
+        - Sound Designer & Re-recording Mixer
+      director: Nesimi Yetik
+      collab: true
+      image: film-toz-ruhu.jpg
+    - title: Sivas
+      url: https://www.imdb.com/title/tt3894344/
+      type: Feature Film
+      year: 2014
+      credits:
+        - Dialogue & Sound Editor
+      director: Kaan Müjdeci
+      collab: true
+      image: film-sivas.jpg
+    - title: Yürümek
+      url: https://bianet.org/haber/halil-savda-ile-barisa-yurumek-149444
+      type: Documentary
+      year: 2013
+      credits:
+        - Sound Designer
+      director: Deniz Şengenç
+      collab: true
+      image: film-yurumek.jpg
+    - title: "Barış İçin Israrlıyız: Kadın Kenti Diyarbakır"
+      url: http://www.bianet.org/bianet/toplumsal-cinsiyet/123846-8-mart-ta-diyarbakir-dan-cikan-bir-kadin-filmi
+      type: Documentary
+      year: 2010
+      credits:
+        - Re-recording Mixer
+      director: Melek Taylan
+      collab: true
+      image: film-baris-icin-israrliyiz-kadin-kenti-diyarbakir.jpg
+    - title: "Tülay German: Kor ve Ateş Yılları"
+      url: https://www.imdb.com/title/tt7681400/
+      type: Documentary
+      year: 2010
+      credits:
+        - Re-recording Mixer
+      director: Didem Pekün
+      collab: true
+      image: film-tulay-german-kor-ve-ates-yillari.jpg
+    - title: The Foe
+      type: Video
+      year: 2007
+      credits:
+        - Sound Designer
+      director: Mustafa Emek Gül
+      image: film-the-foe.jpg
+    - title: Takva
+      url: http://www.imdb.com/title/tt0499262
+      type: Feature Film
+      year: 2006
+      credits:
+        - OST Mastering
+      director: Özer Kızıltan
+      image: film-takva.jpg

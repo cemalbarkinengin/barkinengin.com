@@ -99,6 +99,24 @@
     color: var(--global-text-color);
     opacity: 0.72;
   }
+
+  // Selected Production Works: film posters are portrait, credits stay as text
+  .disco-cover.is-poster {
+    aspect-ratio: 2 / 3;
+  }
+
+  .disco-credit {
+    display: block;
+    margin-top: 0.2rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+    line-height: 1.35;
+    color: var(--global-text-color);
+  }
+
+  .disco-collab {
+    color: inherit;
+  }
 }
 
 @media (max-width: 767.98px) {
