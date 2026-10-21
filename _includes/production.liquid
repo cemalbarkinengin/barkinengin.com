@@ -39,7 +39,8 @@
             <span class="disco-artist">{{ work.artist }}</span>
           {% endif %}
           <span class="disco-meta">
-            {{- work.type }}{% if work.label %} · {{ work.label }}{% endif %} · {{ work.year -}}
+            {{- work.type -}}
+            {%- if work.label %} · {{ work.label }}{% endif %} · {{ work.year -}}
           </span>
           {% for credit in work.credits %}
             <span class="disco-credit">{{ credit }}</span>
