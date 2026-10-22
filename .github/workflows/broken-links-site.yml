@@ -11,6 +11,7 @@ jobs:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
@@ -30,8 +31,14 @@ jobs:
               "baseurl": ""
             }
       - name: Install ImageMagick 🖼️
+        # needed for the resized .webp images; if it stalls, publish anyway with the original images
+        timeout-minutes: 5
+        continue-on-error: true
+        env:
+          DEBIAN_FRONTEND: noninteractive
+          NEEDRESTART_MODE: a
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq imagemagick
+          sudo -E apt-get update -qq && sudo -E apt-get install -y -qq --no-install-recommends imagemagick
           command -v convert || sudo ln -s "$(command -v magick)" /usr/local/bin/convert
       - name: Install and Build 🔧
         run: |
