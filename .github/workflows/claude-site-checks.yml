@@ -1,0 +1,32 @@
+# Temporary: runs the source link check twice and saves the reports to this branch.
+name: Temporary site checks
+on:
+  push:
+    branches: [claude/site-checks]
+permissions:
+  contents: write
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Source links (run 1)
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          fail: false
+          output: lychee-1.md
+          args: --exclude-path README.md --exclude-path CUSTOMIZE.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --accept 200,201,202,203,204,206,403,429 --verbose --no-progress './**/*.md' './**/*.html'
+      - name: Source links (run 2)
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          fail: false
+          output: lychee-2.md
+          args: --exclude-path README.md --exclude-path CUSTOMIZE.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --accept 200,201,202,203,204,206,403,429 --verbose --no-progress './**/*.md' './**/*.html'
+      - name: Save results
+        run: |
+          mkdir -p check-results && mv lychee-1.md lychee-2.md check-results/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f check-results
+          git commit -m "Check results [skip ci]"
+          git push
