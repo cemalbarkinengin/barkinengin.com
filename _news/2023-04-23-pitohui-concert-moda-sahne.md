@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Concert: Pitohui @ [Moda Sahne](https://www.modasahnesi.com/events/dirsek-temasi-dayanisma-konseri-x1/)
+Concert: Pitohui @ [Moda Sahne](https://www.modasahnesi.com/)
