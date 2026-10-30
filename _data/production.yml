@@ -10,11 +10,12 @@
       title: yeniden
       url: https://open.spotify.com/intl-tr/album/2ZiRAcNtdZyJyTv1xXpQer
       type: Album
+      label: Independent
       year: 2026
       credits:
         - Mixing & Mastering
       image: music-lemur-yeniden.jpg
-    - artist: Dora Daema
+    - artist: Dora Dæma
       title: Icarus
       url: https://open.spotify.com/intl-tr/album/5GchgGiWpqkRW5a7v1XuZ8
       type: Single
@@ -37,7 +38,7 @@
       url: https://open.spotify.com/intl-tr/track/06GfdAcg8LeE2lWvHTr8D1
       type: Single
       label: Külbastı Records
-      year: 2025
+      year: 2026
       credits:
         - Mastering
       image: music-arda-kul-buzlar-eriyene-kadar.jpg
@@ -72,6 +73,7 @@
       title: Miras
       url: https://open.spotify.com/intl-tr/album/6wWb4OOUQtfx2cC7YYcZdf
       type: EP
+      label: Independent
       year: 2025
       credits:
         - Mastering
@@ -80,6 +82,7 @@
       title: Ursine
       url: https://open.spotify.com/intl-tr/album/0Ol4rqUcxsofU4Q7QArD6k
       type: Album
+      label: Independent
       year: 2025
       credits:
         - Mastering
@@ -106,6 +109,7 @@
       title: Fer
       url: https://open.spotify.com/intl-tr/album/2ri6etCYmrlkc7Ub80yM8V
       type: Single
+      label: Independent
       year: 2024
       credits:
         - Mastering
@@ -169,6 +173,7 @@
       title: Pieces & Parts No.1
       url: https://open.spotify.com/track/4EiWpfHgQfUPVaR6A8mWIp
       type: Single
+      label: Independent
       year: 2023
       credits:
         - Mixing & Mastering
@@ -186,6 +191,7 @@
       title: Cursed Home Pt.1
       url: https://open.spotify.com/album/2vDfSrxa58V6rnqHU9051H
       type: Album
+      label: Independent
       year: 2022
       credits:
         - Mixing & Mastering
@@ -203,6 +209,7 @@
       title: Cursed Home
       url: https://open.spotify.com/album/1XsZmM7yioMieflspiREIB
       type: Single
+      label: Independent
       year: 2022
       credits:
         - Mixing & Mastering
@@ -230,6 +237,7 @@
       title: Papillon
       url: https://open.spotify.com/album/7lstzgHsVMmGjH1gehcaQt
       type: Single
+      label: Independent
       year: 2022
       credits:
         - Mixing & Mastering
@@ -282,6 +290,7 @@
       title: Karşıyaka
       url: https://open.spotify.com/track/1rDASSr8kJ3DJkLjkqpBVM
       type: Single
+      label: Independent
       year: 2020
       credits:
         - Mixing
@@ -290,6 +299,7 @@
       title: The Constant Fear of Being Judged (By You)
       url: https://open.spotify.com/album/3q2QE93DNwDhVRxEfEqBtn
       type: Album
+      label: Independent
       year: 2020
       credits:
         - Mixing
@@ -298,6 +308,7 @@
       title: Bundan Sonraki Günlerimiz Hatırlamakla Geçecek
       url: https://open.spotify.com/album/6z6HuZt605bI61S2fwy5Py
       type: Album
+      label: Independent
       year: 2019
       credits:
         - Mixing
@@ -396,6 +407,7 @@
       title: Qualia
       url: https://open.spotify.com/album/6winh4YmPESMRqshxguN7F
       type: Album
+      label: Independent
       year: 2017
       credits:
         - Mixing
@@ -522,6 +534,7 @@
       title: Discotheque Sounds From The Cemetery
       url: https://open.spotify.com/album/3PWZQWOj3kcdPYFL1u2cgX
       type: Album
+      label: Independent
       year: 2014
       credits:
         - Mastering
