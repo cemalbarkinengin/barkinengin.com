@@ -6,6 +6,14 @@
 
 - section: Music
   works:
+    - artist: Lemur
+      title: yeniden
+      url: https://open.spotify.com/intl-tr/album/2ZiRAcNtdZyJyTv1xXpQer
+      type: Album
+      year: 2026
+      credits:
+        - Mixing & Mastering
+      image: music-lemur-yeniden.jpg
     - artist: Dora Daema
       title: Icarus
       url: https://open.spotify.com/intl-tr/album/5GchgGiWpqkRW5a7v1XuZ8
