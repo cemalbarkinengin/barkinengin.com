@@ -1,0 +1,379 @@
+[
+ {
+  "artist": "Lemur",
+  "title": "yeniden",
+  "url": "https://open.spotify.com/intl-tr/album/2ZiRAcNtdZyJyTv1xXpQer",
+  "year": 2026,
+  "type": "Album",
+  "spotify_title": "yeniden",
+  "deezer": {
+   "title": "yeniden",
+   "artist": "Lemur",
+   "label": "Lemur",
+   "date": "2026-08-21",
+   "type": "single"
+  },
+  "itunes": {
+   "store": "tr",
+   "title": "yeniden - Single",
+   "artist": "Lemur",
+   "copyright": "℗ 2026 Lemur",
+   "date": "2026-08-21"
+  }
+ },
+ {
+  "artist": "Dora Daema",
+  "title": "Icarus",
+  "url": "https://open.spotify.com/intl-tr/album/5GchgGiWpqkRW5a7v1XuZ8",
+  "year": 2026,
+  "type": "Single",
+  "spotify_title": "Icarus",
+  "deezer": {
+   "none": [
+    [
+     "Icarus",
+     "Dora Dæma"
+    ]
+   ]
+  },
+  "itunes": null
+ },
+ {
+  "artist": "Deli Bakkal",
+  "title": "Artistik Oyun Havaları",
+  "url": "https://open.spotify.com/intl-tr/album/4dLmV2fMqN4vxASFqqP3il",
+  "year": 2026,
+  "type": "Album",
+  "spotify_title": "Artistik Oyun Havaları",
+  "deezer": {
+   "title": "Artistik Oyun Havaları",
+   "artist": "Deli Bakkal",
+   "label": "Kazandibi Records",
+   "date": "2026-04-24",
+   "type": "album"
+  },
+  "itunes": null
+ },
+ {
+  "artist": "Arda Kül",
+  "title": "Buzlar Eriyene Kadar",
+  "url": "https://open.spotify.com/intl-tr/track/06GfdAcg8LeE2lWvHTr8D1",
+  "year": 2025,
+  "type": "Single",
+  "spotify_title": "Buzlar Eriyene Kadar",
+  "deezer": {
+   "title": "Buzlar Eriyene Kadar",
+   "artist": "Arda Kül",
+   "label": "Külbastı Records",
+   "date": "2026-03-13",
+   "type": "single"
+  },
+  "itunes": {
+   "store": "tr",
+   "title": "Buzlar Eriyene Kadar - Single",
+   "artist": "Arda Kül",
+   "copyright": "℗ 2026 Külbastı Records",
+   "date": "2026-03-13"
+  }
+ },
+ {
+  "artist": "Arda Kül",
+  "title": "Manolya",
+  "url": "https://open.spotify.com/intl-tr/album/7IIXpwPq8pzhYkPd7696NT",
+  "year": 2025,
+  "type": "Single",
+  "spotify_title": "Manolya",
+  "deezer": {
+   "title": "Manolya",
+   "artist": "Arda Kül",
+   "label": "Külbastı Records",
+   "date": "2025-11-21",
+   "type": "single"
+  },
+  "itunes": {
+   "store": "tr",
+   "title": "Manolya - Single",
+   "artist": "Arda Kül",
+   "copyright": "℗ 2025 Külbastı Records",
+   "date": "2025-11-21"
+  }
+ },
+ {
+  "artist": "Kuş Kolektifi",
+  "title": "Miras",
+  "url": "https://open.spotify.com/intl-tr/album/6wWb4OOUQtfx2cC7YYcZdf",
+  "year": 2025,
+  "type": "EP",
+  "spotify_title": "Miras",
+  "deezer": {
+   "title": "Miras",
+   "artist": "Kuş Kolektifi",
+   "label": "Kuş Kolektifi",
+   "date": "2025-05-22",
+   "type": "ep"
+  },
+  "itunes": {
+   "store": "tr",
+   "title": "Miras - EP",
+   "artist": "Kuş Kolektifi",
+   "copyright": "℗ 2025 Kuş Kolektifi",
+   "date": "2025-05-22"
+  }
+ },
+ {
+  "artist": "Bahr",
+  "title": "Ursine",
+  "url": "https://open.spotify.com/intl-tr/album/0Ol4rqUcxsofU4Q7QArD6k",
+  "year": 2025,
+  "type": "Album",
+  "spotify_title": "Ursine",
+  "deezer": {
+   "title": "Ursine",
+   "artist": "Bahr",
+   "label": "Bahr",
+   "date": "2025-05-09",
+   "type": "album"
+  },
+  "itunes": {
+   "store": "tr",
+   "title": "Ursine",
+   "artist": "Bahr",
+   "copyright": "℗ 2025 Bahr",
+   "date": "2025-05-09"
+  }
+ },
+ {
+  "artist": "Daima",
+  "title": "Fer",
+  "url": "https://open.spotify.com/intl-tr/album/2ri6etCYmrlkc7Ub80yM8V",
+  "year": 2024,
+  "type": "Single",
+  "spotify_title": "Fer",
+  "deezer": {
+   "title": "Fer",
+   "artist": "DAIMA",
+   "label": "Daima",
+   "date": "2024-05-02",
+   "type": "single"
+  },
+  "itunes": {
+   "store": "tr",
+   "title": "Fer - Single",
+   "artist": "Daima",
+   "copyright": "℗ 2024 Daima",
+   "date": "2024-05-03"
+  }
+ },
+ {
+  "artist": "Nihal Saruhanlı",
+  "title": "Pieces & Parts No.1",
+  "url": "https://open.spotify.com/track/4EiWpfHgQfUPVaR6A8mWIp",
+  "year": 2023,
+  "type": "Single",
+  "spotify_title": "Pieces & Parts No.1",
+  "deezer": {
+   "title": "Pieces & Parts No.1",
+   "artist": "Nihal Saruhanlı",
+   "label": "Nihal Saruhanlı",
+   "date": "2023-02-06",
+   "type": "ep"
+  },
+  "itunes": {
+   "store": "tr",
+   "title": "Pieces & Parts No.1 - EP",
+   "artist": "Nihal Saruhanli",
+   "copyright": "℗ 2023 Nihal Saruhanlı",
+   "date": "2023-03-10"
+  }
+ },
+ {
+  "artist": "Bahr",
+  "title": "Cursed Home Pt.1",
+  "url": "https://open.spotify.com/album/2vDfSrxa58V6rnqHU9051H",
+  "year": 2022,
+  "type": "Album",
+  "spotify_title": "cursed home pt. 1",
+  "deezer": {
+   "title": "cursed home pt. 1",
+   "artist": "Bahr",
+   "label": "Bahr",
+   "date": "2022-07-08",
+   "type": "ep"
+  },
+  "itunes": {
+   "store": "tr",
+   "title": "Cursed Home Pt. 1 - EP",
+   "artist": "Bahr",
+   "copyright": "℗ 2022 Bahr",
+   "date": "2022-07-08"
+  }
+ },
+ {
+  "artist": "Bahr",
+  "title": "Cursed Home",
+  "url": "https://open.spotify.com/album/1XsZmM7yioMieflspiREIB",
+  "year": 2022,
+  "type": "Single",
+  "spotify_title": "Cursed Home",
+  "deezer": {
+   "title": "Cursed Home",
+   "artist": "Bahr",
+   "label": "Bahr",
+   "date": "2022-05-27",
+   "type": "single"
+  },
+  "itunes": {
+   "store": "tr",
+   "title": "Cursed Home Pt. 1 - EP",
+   "artist": "Bahr",
+   "copyright": "℗ 2022 Bahr",
+   "date": "2022-07-08"
+  }
+ },
+ {
+  "artist": "Bahr & Glasxs",
+  "title": "Papillon",
+  "url": "https://open.spotify.com/album/7lstzgHsVMmGjH1gehcaQt",
+  "year": 2022,
+  "type": "Single",
+  "spotify_title": "Papillon",
+  "deezer": {
+   "title": "Papillon (feat. Glasxs)",
+   "artist": "Bahr",
+   "label": "Bahr",
+   "date": "2022-04-01",
+   "type": "single"
+  },
+  "itunes": {
+   "store": "tr",
+   "title": "Papillon (feat. Glasxs) - Single",
+   "artist": "Bahr",
+   "copyright": "℗ 2022 Bahr",
+   "date": "2022-04-01"
+  }
+ },
+ {
+  "artist": "Erol Berksen",
+  "title": "Karşıyaka",
+  "url": "https://open.spotify.com/track/1rDASSr8kJ3DJkLjkqpBVM",
+  "year": 2020,
+  "type": "Single",
+  "spotify_title": "Karşıyaka",
+  "deezer": {
+   "none": []
+  },
+  "itunes": {
+   "store": "tr",
+   "title": "Karşıyaka (feat. Burak Beyrek & Barış Demirel) - Single",
+   "artist": "Erol Berksen",
+   "copyright": "℗ 2020 Erol Berksen",
+   "date": "2020-01-18"
+  }
+ },
+ {
+  "artist": "Uç Uç",
+  "title": "The Constant Fear of Being Judged (By You)",
+  "url": "https://open.spotify.com/album/3q2QE93DNwDhVRxEfEqBtn",
+  "year": 2020,
+  "type": "Album",
+  "spotify_title": "The Constant Fear of Being Judged (By You)",
+  "deezer": {
+   "title": "The Constant Fear of Being Judged (By You)",
+   "artist": "Uç Uç",
+   "label": "Uç Uç",
+   "date": "2020-01-10",
+   "type": "album"
+  },
+  "itunes": {
+   "store": "tr",
+   "title": "The Constant Fear of Being Judged (By You)",
+   "artist": "Uç Uç",
+   "copyright": "℗ 2019 Uç Uç",
+   "date": "2020-01-10"
+  }
+ },
+ {
+  "artist": "Haşmet Asilkan",
+  "title": "Bundan Sonraki Günlerimiz Hatırlamakla Geçecek",
+  "url": "https://open.spotify.com/album/6z6HuZt605bI61S2fwy5Py",
+  "year": 2019,
+  "type": "Album",
+  "spotify_title": "Bundan Sonraki Günlerimiz Hatırlamakla Geçecek",
+  "deezer": {
+   "title": "Bundan Sonraki Günlerimiz Hatırlamakla Geçecek",
+   "artist": "Haşmet Asilkan",
+   "label": "1556859 Records DK2",
+   "date": "2019-12-06",
+   "type": "album"
+  },
+  "itunes": {
+   "store": "tr",
+   "title": "Bundan Sonraki Günlerimiz Hatırlamakla Geçecek",
+   "artist": "Haşmet Asilkan",
+   "copyright": "℗ 2019 Haşmet Asilkan",
+   "date": "2019-12-06"
+  }
+ },
+ {
+  "artist": "İstanbul'dan",
+  "title": "Yola Çıktık",
+  "url": "https://open.spotify.com/album/6yPDL5vcNoR1HuHbNyx64L",
+  "year": 2019,
+  "type": "Album",
+  "spotify_title": "Yola Çıktık",
+  "deezer": {
+   "none": []
+  },
+  "itunes": {
+   "store": "tr",
+   "title": "Yola Çıktık",
+   "artist": "İSTANBUL'DAN",
+   "copyright": "℗ 2021 Kinay Music Group",
+   "date": "2021-09-03"
+  }
+ },
+ {
+  "artist": "Goralı",
+  "title": "Qualia",
+  "url": "https://open.spotify.com/album/6winh4YmPESMRqshxguN7F",
+  "year": 2017,
+  "type": "Album",
+  "spotify_title": "Qualia",
+  "deezer": {
+   "title": "Qualia",
+   "artist": "Gorali",
+   "label": "Gorali",
+   "date": "2017-08-03",
+   "type": "album"
+  },
+  "itunes": {
+   "store": "tr",
+   "title": "Qualia",
+   "artist": "Gorali",
+   "copyright": "℗ 2017 Gorali",
+   "date": "2017-08-03"
+  }
+ },
+ {
+  "artist": "Tuna Pase",
+  "title": "Discotheque Sounds From The Cemetery",
+  "url": "https://open.spotify.com/album/3PWZQWOj3kcdPYFL1u2cgX",
+  "year": 2014,
+  "type": "Album",
+  "spotify_title": "Discotheque Sounds from the Cemetery",
+  "deezer": {
+   "title": "Discotheque Sounds from the Cemetery",
+   "artist": "Tuna Pase",
+   "label": "Tuna Pase",
+   "date": "2014-02-14",
+   "type": "album"
+  },
+  "itunes": {
+   "store": "tr",
+   "title": "Discotheque Sounds from the Cemetery",
+   "artist": "Tuna Pase",
+   "copyright": "℗ 2014 Tuna Pase",
+   "date": "2014-02-14"
+  }
+ }
+]
