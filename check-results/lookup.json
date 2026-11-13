@@ -1,0 +1,122 @@
+{
+ "deezer": [],
+ "itunes": [
+  {
+   "collectionId": 6825785062,
+   "collectionName": "Fluid Obsessions",
+   "artistName": "Ototoi",
+   "releaseDate": "2026-11-13T08:00:00Z",
+   "copyright": "℗ 2026 Olmadı Kaçarız Plakçılık",
+   "trackCount": 7,
+   "collectionViewUrl": "https://music.apple.com/tr/album/fluid-obsessions/6825785062?uo=4",
+   "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/ff/20/90ff20d5-58ed-d6a3-fa39-1479085baa47/711641055471.jpg/100x100bb.jpg",
+   "country": "TR"
+  },
+  {
+   "collectionId": 1482882883,
+   "collectionName": "Coming N Going",
+   "artistName": "Ototoi",
+   "releaseDate": "2015-10-09T07:00:00Z",
+   "copyright": "℗ 2019 Gentle Records",
+   "trackCount": 11,
+   "collectionViewUrl": "https://music.apple.com/tr/album/coming-n-going/1482882883?uo=4",
+   "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f5/ee/be/f5eebee8-19b0-6b5a-3e60-1d6e023a8b87/artwork.jpg/100x100bb.jpg",
+   "country": "TR"
+  },
+  {
+   "collectionId": 1488270324,
+   "collectionName": "Tape08",
+   "artistName": "Ototoi",
+   "releaseDate": "2017-06-01T07:00:00Z",
+   "copyright": "℗ 2019 Ototoi",
+   "trackCount": 7,
+   "collectionViewUrl": "https://music.apple.com/tr/album/tape08/1488270324?uo=4",
+   "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8a/80/30/8a803023-ada0-67dc-e240-cc29173704b9/artwork.jpg/100x100bb.jpg",
+   "country": "TR"
+  },
+  {
+   "collectionId": 1586330477,
+   "collectionName": "Luksusdyr",
+   "artistName": "Ototoi",
+   "releaseDate": "2021-11-26T08:00:00Z",
+   "copyright": "℗ 2021 Smeik",
+   "trackCount": 10,
+   "collectionViewUrl": "https://music.apple.com/tr/album/luksusdyr/1586330477?uo=4",
+   "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/2f/20/472f20d0-64a4-f7c4-9af6-6eaf48891664/artwork.jpg/100x100bb.jpg",
+   "country": "TR"
+  }
+ ],
+ "bandcamp": [],
+ "odesli": [],
+ "spotify": [],
+ "musicbrainz": [
+  {
+   "title": "TAPE02",
+   "date": "2013-11-25",
+   "artist": "Ototoi.",
+   "label": [],
+   "type": "Album",
+   "id": "d41ecbc5-8399-43c6-8a1e-2ed9f0984dd4"
+  },
+  {
+   "title": "K Tape",
+   "date": "2013-11-05",
+   "artist": "Ototoi.",
+   "label": [],
+   "type": "Album",
+   "id": "e2ec01cd-0846-4fb0-a652-7cc193a068f0"
+  },
+  {
+   "title": "Textures.Volume.One.",
+   "date": "2014-08-27",
+   "artist": "Ototoi.",
+   "label": [],
+   "type": "Album",
+   "id": "04e8bb4c-fbcb-422e-b759-107a49432e8b"
+  },
+  {
+   "title": "perdure",
+   "date": "2015-06-11",
+   "artist": "Ototoi.",
+   "label": [],
+   "type": "Album",
+   "id": "d3cad0b0-e0d0-4078-b1b8-dd04ccde7059"
+  },
+  {
+   "title": "TAPE07",
+   "date": "2016-08-05",
+   "artist": "Ototoi.",
+   "label": [],
+   "type": "Album",
+   "id": "05f309ef-702b-4aee-9817-511184a54b68"
+  },
+  {
+   "title": "TAPE04",
+   "date": "2014-07-09",
+   "artist": "Ototoi.",
+   "label": [],
+   "type": "Album",
+   "id": "ff17799a-24d1-4ee0-b0ca-0acd3eab56ce"
+  },
+  {
+   "title": "TAPE08",
+   "date": null,
+   "artist": "Ototoi.",
+   "label": [],
+   "type": "Album",
+   "id": "bed2d083-e9ed-4a08-b404-342b8fb257a3"
+  }
+ ],
+ "web": [],
+ "covers": [
+  {
+   "source": "itunes",
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/ff/20/90ff20d5-58ed-d6a3-fa39-1479085baa47/711641055471.jpg/1000x1000bb.jpg",
+   "file": "check-results/cover-itunes.jpg",
+   "bytes": 128604
+  }
+ ],
+ "errors": [
+  "odesli https://music.apple.com/tr/album/fluid-obsessions/6825785062?uo=4: <HTTPError 401: 'Unauthorized'>"
+ ]
+}
