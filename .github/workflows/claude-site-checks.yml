@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Look up release
-        run: python3 .github/claude/lookup.py
+        run: python3 .github/claude/lookup2.py
       - name: Save results
         if: always()
         run: |
