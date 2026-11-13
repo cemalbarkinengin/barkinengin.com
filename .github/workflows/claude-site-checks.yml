@@ -1,4 +1,4 @@
-# Temporary: looks up label information for releases and saves it to this branch.
+# Temporary: looks up release information and saves it to this branch.
 name: Temporary site checks
 on:
   push:
@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Look up labels
-        run: python3 .github/claude/labels.py
+      - name: Look up release
+        run: python3 .github/claude/lookup.py
       - name: Save results
         if: always()
         run: |
