@@ -1,0 +1,36 @@
+{
+ "pages": [
+  {
+   "url": "https://album.link/i/6825785062",
+   "length": 65686,
+   "spotify_ids": []
+  },
+  {
+   "url": "https://song.link/i/6825785062",
+   "length": 17783,
+   "spotify_ids": []
+  },
+  {
+   "url": "https://odesli.co/i/6825785062",
+   "length": 21296,
+   "spotify_ids": []
+  }
+ ],
+ "spotify": [],
+ "deezer": {
+  "id": null,
+  "title": null,
+  "link": null,
+  "label": null,
+  "release_date": null,
+  "record_type": null,
+  "nb_tracks": null,
+  "cover_xl": null,
+  "error": {
+   "type": "DataException",
+   "message": "no data",
+   "code": 800
+  }
+ },
+ "errors": []
+}
