@@ -6,6 +6,15 @@
 
 - section: Music
   works:
+    - artist: ototoi
+      title: Fluid Obsessions
+      url: https://open.spotify.com/intl-tr/album/2lQkm4dsVMDJwRuADE1nWM
+      type: Album
+      label: Olmadı Kaçarız
+      year: 2026
+      credits:
+        - Mastering
+      image: music-ototoi-fluid-obsessions.jpg
     - artist: Lemur
       title: yeniden
       url: https://open.spotify.com/intl-tr/album/2ZiRAcNtdZyJyTv1xXpQer
