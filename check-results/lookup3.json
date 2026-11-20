@@ -1,0 +1,32 @@
+{
+ "spotify": {
+  "oembed_title": "Bin Yıllık Dert",
+  "thumbnail": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e027034543dd21aee11dc19f9df",
+  "page_title": "Spotify – Web Player",
+  "og:description": null,
+  "og:title": null,
+  "music:release_date": null,
+  "music:album": null,
+  "music:musician_description": null,
+  "cover_bytes": 87096
+ },
+ "itunes": [
+  {
+   "trackName": "Bin Yıllık Dert",
+   "collectionName": "Bin Yıllık Dert - Single",
+   "artistName": "Emir Aksoy",
+   "releaseDate": null,
+   "collectionId": 6822793259,
+   "trackViewUrl": "https://music.apple.com/tr/album/bin-y%C4%B1ll%C4%B1k-dert/6822793259?i=6822793263&uo=4",
+   "country": "TR"
+  },
+  {
+   "lookup": 6822793259,
+   "copyright": "℗ 2026 Yazdeniz Records",
+   "releaseDate": "2026-11-20T08:00:00Z",
+   "collectionName": "Bin Yıllık Dert - Single"
+  }
+ ],
+ "deezer": [],
+ "errors": []
+}
