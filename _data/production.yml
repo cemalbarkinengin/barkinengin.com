@@ -6,6 +6,15 @@
 
 - section: Music
   works:
+    - artist: Emir Aksoy
+      title: Bin Yıllık Dert
+      url: https://open.spotify.com/intl-tr/track/3MdYTWMk04Nz6aHW6zeaQo
+      type: Single
+      label: Yazdeniz Records
+      year: 2026
+      credits:
+        - Mixing & Mastering
+      image: music-emir-aksoy-bin-yillik-dert.jpg
     - artist: Ototoi
       title: Fluid Obsessions
       url: https://open.spotify.com/intl-tr/album/2lQkm4dsVMDJwRuADE1nWM
